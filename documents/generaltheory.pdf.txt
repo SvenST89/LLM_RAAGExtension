@@ -1,0 +1,2278 @@
+ 
+ 
+ 
+The General Theory of Employment, 
+Interest, and Money 
+by 
+John Maynard Keynes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The General Theory of Employment, Interest, and Money 
+John Maynard Keynes 
+Table of Contents 
+•  PREFACE  
+•  PREFACE TO THE GERMAN EDITION  
+•  PREFACE TO THE JAPANESE EDITION  
+•  PREFACE TO THE FRENCH EDITION  
+Book I: Introduction 
+1.  THE GENERAL THEORY  
+2.  THE POSTULATES OF THE CLASSICAL ECONOMICS  
+3.  THE PRINCIPLE OF EFFECTIVE DEMAND  
+Book II: Definitions and Ideas 
+4.  THE CHOICE OF UNITS  
+5.  EXPECTATION AS DETERMINING OUTPUT AND EMPLOYMENT  
+6.  THE DEFINITION OF INCOME, SAVING AND INVESTMENT  
+o  APPENDIX ON USER COST 
+7.  THE MEANING OF SAVING AND INVESTMENT FURTHER CONSIDERED  
+Book III: The Propensity to Consume 
+8.  THE PROPENSITY TO CONSUME: 
+I. THE OBJECTIVE FACTORS  
+9.  THE PROPENSITY TO CONSUME: 
+II. THE SUBJECTIVE FACTORS  
+10. THE MARGINAL PROPENSITY TO CONSUME AND THE MULTIPLIER  
+Book IV: The Inducement to Invest 
+11. THE MARGINAL EFFICIENCY OF CAPITAL  
+12. THE STATE OF LONG-TERM EXPECTATION  
+13. THE GENERAL THEORY OF THE RATE OF INTEREST  
+14. THE CLASSICAL THEORY OF THE RATE OF INTEREST  
+o  APPENDIX ON THE RATE OF INTEREST IN MARSHALL'S 
+PRINCIPLES OF ECONOMICS, RICARDO'S PRINCIPLES OF 
+POLITICAL ECONOMY, AND ELSEWHERE  
+15. THE PSYCHOLOGICAL AND BUSINESS INCENTIVES TO LIQUIDITY  
+16. SUNDRY OBSERVATIONS ON THE NATURE OF CAPITAL  
+17. THE ESSENTIAL PROPERTIES OF INTEREST AND MONEY  
+18. THE GENERAL THEORY OF EMPLOYMENT RE-STATED  
+
+Book V: Money-wages and Prices 
+19. CHANGES IN MONEY-WAGES  
+o  PROFESSOR PIGOU'S 'THEORY OF UNEMPLOYMENT'  
+20. THE EMPLOYMENT FUNCTION  
+21. THE THEORY OF PRICES  
+Short Notes Suggested by the General Theory 
+22. NOTES ON THE TRADE CYCLE  
+23. NOTES ON MERCANTILISM, THE USURY LAWS, STAMPED MONEY 
+AND THEORIES OF UNDER-CONSUMPTION  
+24. CONCLUDING NOTES ON THE SOCIAL PHILOSOPHY TOWARDS 
+WHICH THE GENERAL THEORY MIGHT LEAD  
+•  Appendix 1  
+•  Appendix 2  
+•  Appendix 3  
+ 
+Rendered into HTML on Wednesday April 16 09:46:33 CST 2003, by Steve Thomas for 
+The University of Adelaide Library Electronic Texts Collection.  
+For offline reading, the complete set of pages is available for download from 
+http://etext.library.adelaide.edu.au/k/k44g/k44g.zip
+This work is also available as a single file, as 
+http://etext.library.adelaide.edu.au/k/k44g/k44g.html
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+PREFACE 
+This book is chiefly addressed to my fellow economists. I hope that it will be intelligible 
+to others. But its main purpose is to deal with difficult questions of theory, and only in 
+the  second  place  with  the  applications  of  this  theory  to  practice.  For  if  orthodox 
+economics is at fault, the error is to be found not in the superstructure, which has been 
+erected with great care for logical consistency, but in a lack of clearness and of generality 
+in  the  pre  misses.  Thus  I  cannot  achieve  my  object  of  persuading  economists  to  re-
+examine critically certain of their basic assumptions except by a highly abstract argument 
+and also by much controversy. I wish there could have been less of the latter. But I have 
+thought it important, not only to explain my own point of view, but also to show in what 
+respects it departs from the prevailing theory. Those, who are strongly wedded to what I 
+shall  call  'the  classical  theory',  will  fluctuate,  I  expect,  between  a  belief  that  I  am  quite 
+wrong and a belief that I am saying nothing new. It is for others to determine if either of 
+these  or  the  third  alternative  is  right.  My controversial  passages  are  aimed  at  providing 
+some  material  for  an  answer;  and  I  must  ask  forgiveness  if,  in  the  pursuit  of  sharp 
+distinctions,  my  controversy  is  itself  too  keen.  I  myself  held  with  conviction  for  many 
+years the theories which I now attack, and I am not, I think, ignorant of their strong points. 
+The  matters  at  issue  are  of  an  importance  which  cannot  be  exaggerated.  But,  if  my 
+explanations are right, it is my fellow economists, not the general public, whom I must 
+first  convince.  At  this  stage  of  the  argument  the  general  public,  though  welcome  at  the 
+debate,  are  only  eavesdroppers  at  an  attempt  by  an  economist  to  bring  to  an  issue  the 
+deep  divergences  of  opinion  between  fellow  economists  which  have  for  the  time  being 
+almost  destroyed  the  practical  influence  of  economic  theory,  and  will,  until  they  are 
+resolved, continue to do so. 
+The relation between this book and my Treatise on Money [JMK vols. v and vi], which I 
+published five years ago, is probably clearer to myself than it will be to others; and what 
+in my own mind is a natural evolution in a line of thought which I have been pursuing for 
+several  years,  may  sometimes  strike  the  reader  as  a  confusing  change  of  view.  This 
+difficulty is not made less by certain changes in terminology which I have felt compelled 
+to  make.  These  changes  of  language  I  have  pointed  out  in  the  course  of  the  following 
+pages;  but  the  general  relationship  between  the  two  books  can  be  expressed  briefly  as 
+follows.  When  I  began  to  write  my  Treatise  on  Money  I  was  still  moving  along  the 
+traditional  lines  of  regarding  the  influence  of  money  as  something  so  to  speak  separate 
+from  the  general  theory  of  supply  and  demand.  When  I  finished  it,  I  had  made  some 
+progress  towards  pushing  monetary  theory  back  to  becoming  a  theory  of  output  as  a 
+whole. But my lack of emancipation from preconceived ideas showed itself in what now 
+seems  to  me  to  be  the  outstanding  fault  of  the  theoretical  parts  of  that  work  (namely, 
+Books III and IV), that I failed to deal thoroughly with the effects of changes in the level 
+of  output.  My  so-called  'fundamental  equations  were  an  instantaneous  picture  taken  on 
+the  assumption  of  a  given  output.  They  attempted  to  show  how,  assuming  the  given 
+output, forces could develop which involved a profit-disequilibrium, and thus required a 
+
+change  in  the  level  of  output.  But  the  dynamic  development,  as  distinct  from  the 
+instantaneous  picture,  was  left  incomplete  and  extremely  confused.  This  book,  on  the 
+other  hand,  has  evolved  into  what  is  primarily  a  study  of  the  forces  which  determine 
+changes  in  the  scale  of  output  and  employment  as  a  whole;  and,  whilst  it  is  found  that 
+money  enters  into  the  economic  scheme  in  an  essential  and  peculiar  manner,  technical 
+monetary  detail  falls  into  the  background.  A  monetary  economy,  we  shall  find,  is 
+essentially one in which changing views about the future are capable of influencing the 
+quantity  of  employment  and  not  merely  its  direction.  But  our  method  of  analysing  the 
+economic behaviour of the present under the influence of changing ideas about the future 
+is one which depends on the interaction of supply and demand, and is in this way linked 
+up with our fundamental theory of value. We are thus led to a more general theory, which 
+includes the classical theory with which we are familiar, as a special case. 
+The writer of a book such as this, treading along unfamiliar paths, is extremely dependent 
+on  criticism  and  conversation  if  he  is  to  avoid  an  undue  proportion  of  mistakes.  It  is 
+astonishing what foolish things one can temporarily believe if one thinks too long alone, 
+particularly  in  economics  (along  with  the  other  moral  sciences),  where  it  is  often 
+impossible to bring one's ideas to a conclusive test either formal or experimental. In this 
+book, even more perhaps than in writing my Treatise on Money, I have depended on the 
+constant advice and constructive criticism of Mr R.F. Kahn. There is a great deal in this 
+book which would not have taken the shape it has except at his suggestion. I have also 
+had  much  help  from  Mrs  Joan  Robinson,  Mr  R.G.  Hawtrey  and  Mr  R.F.  Harrod,  who 
+have  read  the  whole  of  the  proof-sheets.  The  index  has  been  compiled  by  Mr  D.  M. 
+Bensusan-Butt of King's College, Cambridge. 
+The composition of this book has been for the author a long struggle of escape, and so 
+must  the  reading  of  it  be  for  most  readers  if  the  author's  assault  upon  them  is  to  be 
+successful,—a  struggle  of  escape  from  habitual  modes  of  thought  and  expression.  The 
+ideas  which  are  here  expressed  so  laboriously  are  extremely  simple  and  should  be 
+obvious.  The  difficulty  lies,  not  in  the  new  ideas,  but  in  escaping  from  the  old  ones, 
+which  ramify,  for  those  brought  up  as  most  of  us  have  been,  into  every  corner  of  our 
+minds. 
+J. M. KEYNES 
+13 December 1935 
+  
+ 
+ 
+ 
+ 
+
+ 
+PREFACE TO THE GERMAN EDITION 
+Alfred Marshall, on whose Principles of Economics all contemporary English economists 
+have been brought up, was at particular pains to emphasise the continuity of his thought 
+with  Ricardo's.  His  work  largely  consisted  in  grafting  the  marginal  principle  and  the 
+principle  of  substitution  on  to  the  Ricardian  tradition;  and  his  theory  of  output  and 
+consumption as a whole, as distinct from his theory of the production and distribution of 
+a given output, was never separately expounded. Whether he himself felt the need of such 
+a  theory,  I  am  not  sure.  But  his  immediate  successors  and  followers  have  certainly 
+dispensed with it and have not, apparently, felt the lack of it. It was in this atmosphere 
+that I was brought up. I taught these doctrines myself and it is only within the last decade 
+that  I  have  been  conscious  of  their  insufficiency.  In  my  own  thought  and  development, 
+therefore, this book represents a reaction, a transition away from the English classical (or 
+orthodox) tradition. My emphasis upon this in the following pages and upon the points of 
+my divergence from received doctrine has been regarded in some quarters in England as 
+unduly  controversial.  But  how  can  one  brought  up  a  Catholic  in  English  economics, 
+indeed a priest of that faith, avoid some controversial emphasis, when he first becomes a 
+Protestant? 
+But I fancy that all this may impress German readers somewhat differently. The orthodox 
+tradition,  which  ruled  in  nineteenth  century  England,  never  took  so  firm  a  hold  of 
+German thought. There have always existed important schools of economists in Germany 
+who  have  strongly  disputed  the  adequacy  of  the  classical  theory  for  the  analysis  of 
+contemporary events. The Manchester School and Marxism both derive ultimately from 
+Ricardo,—a conclusion which is only superficially surprising. But in Germany there has 
+always existed a large section of opinion which has adhered neither to the one nor to the 
+other. 
+It  can  scarcely  be  claimed,  however,  that  this  school  of  thought  has  erected  a  rival 
+theoretical  construction;  or  has  even  attempted  to  do  so.  It  has  been  sceptical,  realistic, 
+content with historical and empirical methods and results, which discard formal analysis. 
+The most important unorthodox discussion on theoretical lines was that of Wicksell. His 
+books were available in German (as they were not, until lately, in English); indeed one of 
+the  most  important  of  them  was  written  in  German.  But  his  followers  were  chiefly 
+Swedes and Austrians, the latter of whom combined his ideas with specifically Austrian 
+theory  so  as  to  bring  them  in  effect,  back  again  towards  the  classical  tradition.  Thus 
+Germany, quite contrary to her habit in most of the sciences, has been content for a whole 
+century  to  do  without  any  formal  theory  of  economics  which  was  predominant  and 
+generally accepted. 
+Perhaps, therefore, I may expect less resistance from German, than from English, readers 
+in  offering  a  theory  of  employment  and  output  as  a  whole,  which  departs  in  important 
+respects  from  the  orthodox  tradition.  But  can  I  hope  to  overcome  Germany's  economic 
+agnosticism?  Can  I  persuade  German  economists  that  methods  of  formal  analysis  have 
+
+something important to contribute to the interpretation of contemporary events and to the 
+moulding of contemporary policy? After all, it is German to like a theory. How hungry 
+and thirsty German economists must feel after having lived all these years without one! 
+Certainly, it is worth while for me to make the attempt. And if I can contribute some stray 
+morsels  towards  the  preparation  by  German  economists  of  a  full  repast  of  theory 
+designed  to  meet  specifically  German  conditions,  I  shall  be  content.  For  I  confess  that 
+much  of  the  following  book  is  illustrated  and  expounded  mainly  with  reference  to  the 
+conditions existing in the Anglo-Saxon countries. 
+Nevertheless the theory of output as a whole, which is what the following book purports 
+to provide, is much more easily adapted to the conditions of a totalitarian state, than is the 
+theory of the production and distribution of a given output produced under conditions of 
+free  competition  and  a  large  measure  of  laissez-faire.  The  theory  of  the  psychological 
+laws  relating  consumption  and  saving,  the  influence  of  loan  expenditure  on  prices  and 
+real wages, the part played by the rate of interest—these remain as necessary ingredients 
+in our scheme of thought. 
+I  take  this  opportunity  to  acknowledge  my  indebtedness  to  the  excellent  work  of  my 
+translator Herr Waeger (I hope his vocabulary at the end of this volume may prove useful 
+beyond  its  immediate  purpose)  and  to  my  publishers,  Messrs  Duncker  and  Humblot, 
+whose  enterprise,  from  the  days  now  sixteen  years  ago  when  they  published  my 
+Economic Consequences of the Peace, has enabled me to maintain contact with German 
+readers. 
+J. M. KEYNES 
+7 September 1936 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+PREFACE TO THE JAPANESE EDITION 
+Alfred Marshall, on whose Principles of Economics all contemporary English economists 
+have been brought up, was at particular pains to emphasise the continuity of his thought 
+with  Ricardo's.  His  work  largely  consisted  in  grafting  the  marginal  principle  and  the 
+principle  of  substitution  on  to  the  Ricardian  tradition;  and  his  theory  of  output  and 
+consumption as a whole, as distinct from his theory of the production and distribution of 
+a given output, was never separately expounded. Whether he himself felt the need of such 
+a  theory,  I  am  not  sure.  But  his  immediate  successors  and  followers  have  certainly 
+dispensed with it and have not, apparently, felt the lack of it. It was in this atmosphere 
+that I was brought up. I taught these doctrines myself and it is only within the last decade 
+that  I  have  been  conscious  of  their  insufficiency.  In  my  own  thought  and  development, 
+therefore, this book represents a reaction, a transition away from the English classical (or 
+orthodox) tradition. My emphasis upon this in the following pages and upon the points of 
+my divergence from received doctrine has been regarded in some quarters in England as 
+unduly  controversial.  But  how  can  one  brought  up  in  English  economic  orthodoxy, 
+indeed a priest of that faith at one time, avoid some controversial emphasis, when he first 
+becomes a Protestant? 
+Perhaps Japanese readers, however, will neither require nor resist my assaults against the 
+English  tradition.  We  are  well  aware  of  the  large  scale  on  which  English  economic 
+writings are read in Japan, but we are not so well informed as to how Japanese opinions 
+regard them. The recent praiseworthy enterprise on the part of the International Economic 
+Circle  of  Tokyo  in  reprinting  Malthus's  'Principles  of  Political  Economy'  as  the  first 
+volume in the Tokyo Series of Reprints encourages me to think that a book which traces 
+its  descent  from  Malthus  rather  than  Ricardo  may  be  received  with  sympathy  in  some 
+quarters at least. 
+At  any  rate  I  am  grateful  to  the  Oriental  Economist  for  making  it  possible  for  me  to 
+approach Japanese readers without the extra handicap of a foreign language. 
+J. M. KEYNES 
+4 December 1936 
+  
+ 
+ 
+ 
+ 
+
+ 
+PREFACE TO THE FRENCH EDITION 
+For  a  hundred  years  or  longer,  English  Political  Economy  has  been  dominated  by  an 
+orthodoxy. That is not to say that an unchanging doctrine has prevailed. On the contrary. 
+There  has  been  a  progressive  evolution  of  the  doctrine.  But  its  presuppositions,  its 
+atmosphere, its method have remained surprisingly the same, and a remarkable continuity 
+has  been  observable  through  all  the  changes.  In  that  orthodoxy,  in  that  continuous 
+transition,  I  was  brought  up.  I  learnt  it,  I  taught  it,  I  wrote  it.  To  those  looking  from 
+outside  I  probably  still  belong  to  it.  Subsequent  historians  of  doctrine  will  regard  this 
+book as in essentially the same tradition. But I myself in writing it, and in other recent 
+work which has led up to it, have felt myself to be breaking away from this orthodoxy, to 
+be  in  strong  reaction  against  it,  to  be  escaping  from  something,  to  be  gaining  an 
+emancipation. And this state of mind on my part is the explanation of certain faults in the 
+book, in particular its controversial note in some passages, and its air of being addressed 
+too much to the holders of a particular point of view and too little ad urbem et orbem. I 
+was wanting to convince my own environment and did not address myself with sufficient 
+directness  to  outside  opinion.  Now  three  years  later,  having  grown  accustomed  to  my 
+new skin and having almost forgotten the smell of my old one, I should, if I were writing 
+afresh,  endeavour  to  free  myself  from  this  fault  and  state  my  own  position  in  a  more 
+clear-cut manner. 
+I  say  all  this,  partly  to  explain  and  partly  to  excuse,  myself  to  French  readers.  For  in 
+France there has been no orthodox tradition with the same authority over contemporary 
+opinion as in my own country. In the United States the position has been much the same 
+as in England. But in France, as in the rest of Europe, there has been no such dominant 
+school  since  the  expiry  of  the  school  of  French  Liberal  economists  who  were  in  their 
+prime twenty years ago (though they lived to so great an age, long after their influence 
+had  passed  away,  that  it  fell  to  my  duty,  when  I  first  became  a  youthful  editor  of  the 
+Economic Journal to write the obituaries of many of them—Levasseur, Molinari, Leroy-
+Beaulieu).  If  Charles  Gide  had  attained  to  the  same  influence  and  authority  as  Alfred 
+Marshall,  your  position  would  have  borne  more  resemblance  to  ours.  As  it  is,  your 
+economists are eclectic, too much (we sometimes think) without deep roots in systematic 
+thought. Perhaps this may make them more easily accessible to what I have to say. But it 
+may also have the result that my readers will sometimes wonder what I am talking about 
+when I speak, with what some of my English critics consider a misuse of language, of the 
+'classical' school of thought and 'classical' economists. It may, therefore, be helpful to my 
+French readers if I attempt to indicate very briefly what I regard as the main differentiae 
+of my approach. 
+I have called my theory a general theory. I mean by this that I am chiefly concerned with 
+the  behaviour  of  the  economic  system  as  a  whole,—with  aggregate  incomes,  aggregate 
+profits, aggregate output, aggregate employment, aggregate investment, aggregate saving 
+rather  than  with  the  incomes,  profits,  output,  employment,  investment  and  saving  of 
+particular industries, firms or individuals. And I argue that important mistakes have been 
+
+made through extending to the system as a whole conclusion which have been correctly 
+arrived at in respect of a part of it taken in isolation. 
+Let me give examples of what I mean. My contention that for the system as a whole the 
+amount of income which is saved, in the sense that it is not spent on current consumption, 
+is and must necessarily be exactly equal to the amount of net new investment has been 
+considered  a  paradox  and  has  been  the  occasion  of  widespread  controversy.  The 
+explanation of this is undoubtedly to be found in the fact that this relationship of equality 
+between saving and investment, which necessarily holds good for the system as a whole, 
+does not hold good at all for a particular individual. There is no reason whatever why the 
+new  investment  for  which  I  am  responsible  should  bear  any  relation  whatever  to  the 
+amount  of  my  own  savings.  Quite  legitimately  we  regard  an  individual's  income  as 
+independent  of  what  he  himself  consumes  and  invests.  But  this,  I  have  to  point  out, 
+should  not  have  led  us  to  overlook  the  fact  that  the  demand  arising  out  of  the 
+consumption  and  investment  of  one  individual  is  the  source  of  the  incomes  of  other 
+individuals,  so  that  incomes  in  general  are  not  independent,  quite  the  contrary,  of  the 
+disposition  of  individuals  to  spend  and  invest;  and  since  in  turn  the  readiness  of 
+individuals to spend and invest depends on their incomes, a relationship is set up between 
+aggregate savings and aggregate investment which can be very easily shown, beyond any 
+possibility  of  reasonable  dispute,  to  be  one  of  exact  and  necessary  equality.  Rightly 
+regarded this is a banal conclusion. But it sets in motion a train of thought from which 
+more substantial matters follow. It is shown that, generally speaking, the actual level of 
+output  and  employment  depends,  not  on  the  capacity  to  produce  or  on  the  pre-existing 
+level of incomes, but on the current decisions to produce which depend in turn on current 
+decisions to invest and on present expectations of current and prospective consumption. 
+Moreover, as soon as we know the propensity to consume and to save (as I call it), that is 
+to  say  the  result  for  the  community  as  a  whole  of  the  individual  psychological 
+inclinations  as  to  how  to  dispose  of  given  incomes,  we  can  calculate  what  level  of 
+incomes,  and  therefore  what  level  of  output  and  employment,  is  in  profit-equilibrium 
+with  a  given  level  of  new  investment;  out  of  which  develops  the  doctrine  of  the 
+Multiplier. Or again, it becomes evident that an increased propensity to save will ceteris 
+paribus  contract  incomes  and  output;  whilst  an  increased  inducement  to  invest  will 
+expand  them.  We  are  thus  able  to  analyse  the  factors  which  determine  the  income  and 
+output  of  the  system  as  a  whole;—we  have,  in  the  most  exact  sense,  a  theory  of 
+employment. Conclusions emerge from this reasoning which are particularly relevant to 
+the problems of public finance and public policy generally and of the trade cycle. 
+Another feature, especially characteristic of this book, is the theory of the rate of interest. 
+In  recent  times  it  has  been  held  by  many  economists  that  the  rate  of  current  saving 
+determined  the  supply  of  free  capital,  that  the  rate  of  current  investment  governed  the 
+demand for it, and that the rate of interest was, so to speak, the equilibrating price-factor 
+determined  by  the  point  of  intersection  of  the  supply  curve  of  savings  and  the  demand 
+curve  of  investment.  But  if  aggregate  saving  is  necessarily  and  in  all  circumstances 
+exactly  equal  to  aggregate  investment,  it  is  evident  that  this  explanation  collapses.  We 
+have to search elsewhere for the solution. I find it in the idea that it is the function of the 
+rate of interest to preserve equilibrium, not between the demand and the supply of new 
+
+capital goods, but between the demand and the supply of money, that is to say between 
+the demand for liquidity and the means of satisfying this demand. I am here returning to 
+the doctrine of the older, pre-nineteenth century economists. Montesquieu, for example, 
+saw  this  truth  with  considerable  clarity,—Montesquieu  who  was  the  real  French 
+equivalent of Adam Smith, the greatest of your economists, head and shoulders above the 
+physiocrats  in  penetration,  clear-headedness  and  good  sense  (which  are  the  qualities  an 
+economist should have). But I must leave it to the text of this book to show how in detail 
+all this works out. 
+I have called this book the General Theory of Employment, Interest and Money; and the 
+third  feature  to  which  I  may  call  attention  is  the  treatment  of  money  and  prices.  The 
+following analysis registers my final escape from the confusions of the Quantity Theory, 
+which  once  entangled  me.  I  regard  the  price  level  as  a  whole  as  being  determined  in 
+precisely the same way as individual prices; that is to say, under the influence of supply 
+and demand. Technical conditions, the level of  wages,  the  extent  of  unused  capacity  of 
+plant  and  labour,  and  the  state  of  markets  and  competition  determine  the  supply 
+conditions  of  individual  products  and  of  products  as  a  whole.  The  decisions  of 
+entrepreneurs,  which  provide  the  incomes  of  individual  producers  and  the  decisions  of 
+those individuals as to the disposition of such incomes determine the demand conditions. 
+And prices—both individual prices and the price-level—emerge as the resultant of these 
+two factors. Money, and the quantity of money, are not direct influences at this stage of 
+the  proceedings.  They  have  done  their  work  at  an  earlier  stage  of  the  analysis.  The 
+quantity  of  money  determines  the  supply  of  liquid  resources,  and  hence  the  rate  of 
+interest,  and  in  conjunction  with  other  factors  (particularly  that  of  confidence)  the 
+inducement  to  invest,  which  in  turn  fixes  the  equilibrium  level  of  incomes,  output  and 
+employment  and  (at  each  stage  in  conjunction  with  other  factors)  the  price-level  as  a 
+whole through the influences of supply and demand thus established. 
+I believe that economics everywhere up to recent times has been dominated, much more 
+than  has  been  understood,  by  the  doctrines  associated  with  the  name  of  J.-B.  Say.  It  is 
+true that his 'law of markets' has been long abandoned by most economists; but they have 
+not  extricated  themselves  from  his  basic  assumptions  and  particularly  from  his  fallacy 
+that demand is created by supply. Say was implicitly assuming that the economic system 
+was  always  operating  up  to  its  full  capacity,  so  that  a  new  activity  was  always  in 
+substitution  for,  and  never  in  addition  to,  some  other  activity.  Nearly  all  subsequent 
+economic theory has depended on, in the sense that it has required, this same assumption. 
+Yet a theory so based is clearly incompetent to tackle the problems of unemployment and 
+of the trade cycle. Perhaps I can best express to French readers what I claim for this book 
+by saying that in the theory of production it is a final break-away from the doctrines of J.-
+B. Say and that in the theory of interest it is a return to the doctrines of Montesquieu. 
+J. M. KEYNES 
+20 February 1939 
+King's College, Cambridge 
+
+  
+Chapter 1 
+THE GENERAL THEORY 
+I have called this book the General Theory of Employment, Interest and Money, placing 
+the emphasis on the prefix general. The object of such a title is to contrast the character 
+of my arguments and conclusions with those of the classical[1] theory of the subject, upon 
+which I was brought up and which dominates the economic thought, both practical and 
+theoretical,  of  the  governing  and  academic  classes  of  this  generation,  as  it  has  for  a 
+hundred years past. I shall argue that the postulates of the classical theory are applicable 
+to a special case only and not to the general case, the situation which it assumes being a 
+limiting  point  of  the  possible  positions  of  equilibrium.  Moreover,  the  characteristics  of 
+the special case assumed by the classical theory happen not to be those of the economic 
+society  in  which  we  actually  live,  with  the  result  that  its  teaching  is  misleading  and 
+disastrous if we attempt to apply it to the facts of experience. 
+1. “The classical economists” was a name invented by Marx to cover Ricardo and James Mill and 
+their predecessors, that is to say for the founders of the theory which culminated in the Ricardian 
+economics. I have become accustomed, perhaps perpetrating a solecism, to include in “the classical 
+school” the followers of Ricardo, those, that is to say, who adopted and perfected the theory of the 
+Ricardian economics, including (for example) J. S. Mill, Marshall, Edgeworth and Prof. Pigou. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+Chapter 2 
+THE POSTULATES OF THE CLASSICAL ECONOMICS 
+Most  treatises  on  the  theory  of  value  and  production  are  primarily  concerned  with  the 
+distribution of a given volume of employed resources between different uses and with the 
+conditions which, assuming the employment of this quantity of resources, determine their 
+relative rewards and the relative values of their products[1]. 
+The question, also, of the volume of the available resources, in the sense of the size of the 
+employable  population,  the  extent  of  natural  wealth  and  the  accumulated  capital 
+equipment, has often been treated descriptively. But the pure theory of what determines 
+the  actual  employment  of  the  available  resources  has  seldom  been  examined  in  great 
+detail. To say that it has not been examined at all would, of course, be absurd. For every 
+discussion concerning fluctuations of employment, of which there have been many, has 
+been  concerned  with  it.  I  mean,  not  that  the  topic  has  been  overlooked,  but  that  the 
+fundamental  theory  underlying  it  has  been  deemed  so  simple  and  obvious  that  it  has 
+received, at the most, a bare mention[2]. 
+The classical theory of employment—supposedly simple and obvious—has been based, I 
+think, on two fundamental postulates, though practically without discussion, namely: 
+I. The wage is equal to the marginal product of labour 
+That is to say, the wage of an employed person is equal to the value which would be lost 
+if employment were to be reduced by one unit (after deducting any other costs which this 
+reduction of output would avoid); subject, however, to the qualification that the equality 
+may be disturbed, in accordance with  certain principles, if competition and markets are 
+imperfect. 
+II.  The  utility  of  the  wage  when  a  given  volume  of  labour  is  employed  is  equal  to  the 
+marginal disutility of that amount of employment. 
+That is to say, the real wage of an employed person is that which is just sufficient (in the 
+estimation of the employed persons themselves) to induce the volume of labour actually 
+employed  to  be  forthcoming;  subject  to  the  qualification  that  the  equality  for  each 
+individual  unit  of  labour  may  be  disturbed  by  combination  between  employable  units 
+analogous to the imperfections of competition which qualify the first postulate. Disutility 
+must be here understood to cover every kind of reason which might lead a man, or a body 
+of  men,  to  withhold  their  labour  rather  than  accept  a  wage  which  had  to  them  a  utility 
+below a certain minimum. 
+This  postulate  is  compatible  with  what  may  be  called  'frictional'  unemployment.  For  a 
+realistic  interpretation  of  it  legitimately  allows  for  various  inexactnesses  of  adjustment 
+
+which stand in the way of continuous full employment: for example, unemployment due 
+to a temporary want of balance between the relative quantities of specialised resources as 
+a  result  of  miscalculation  or  intermittent  demand;  or  to  time-lags  consequent  on 
+unforeseen changes; or to the fact that the change-over from one employment to another 
+cannot be effected without a certain delay, so that there will always exist in a non-static 
+society  a  proportion  of  resources  unemployed  'between  jobs'.  In  addition  to  'frictional' 
+unemployment, the postulate is also compatible with 'voluntary' unemployment due to the 
+refusal or inability of a unit of labour, as a result of legislation or social practices or of 
+combination  for  collective  bargaining  or  of slow  response  to  change  or  of  mere  human 
+obstinacy, to accept a reward corresponding to the value of the product attributable to its 
+marginal  productivity.  But  these  two  categories  of  'frictional'  unemployment  and 
+'voluntary'  unemployment  are  comprehensive.  The  classical  postulates  do  not  admit  of 
+the  possibility  of  the  third  category,  which  I  shall  define  below  as  'involuntary' 
+unemployment. 
+Subject  to  these  qualifications,  the  volume  of  employed  resources  is  duly  determined, 
+according  to  the  classical  theory,  by  the  two  postulates.  The  first  gives  us  the  demand 
+schedule  for  employment,  the  second  gives  us  the  supply  schedule;  and  the  amount  of 
+employment is fixed at the point where the utility of  the marginal  product balances  the 
+disutility of the marginal employment. It would follow from this that there are only four 
+possible means of increasing employment: 
+(a)  An  improvement  in  organisation  or  in  foresight  which  diminishes  'frictional' 
+unemployment; 
+(b)  a  decrease  in  the  marginal  disutility  of  labour,  as  expressed  by  the  real  wage  for 
+which additional labour is available, so as to diminish 'voluntary' unemployment; 
+(c)  an  increase  in  the  marginal  physical  productivity  of  labour  in  the  wage-goods 
+industries  (to  use  Professor  Pigou's  convenient  term  for  goods  upon  the  price  of  which 
+the utility of the money-wage depends); 
+or (d) an increase in the price of non-wage-goods compared with the price of wage-goods, 
+associated with a shift in the expenditure of non-wage-earners from wage-goods to non-
+wage-goods. 
+This,  to  the  best  of  my  understanding,  is  the  substance  of  Professor  Pigou's  Theory  of 
+Unemployment—the only detailed account of the classical theory of employment which 
+exists[3]. 
+II 
+Is  it  true  that  the  above  categories  are  comprehensive  in  view  of  the  fact  that  the 
+population generally is seldom doing as much work as it would like to do on the basis of 
+the  current  wage?  For,  admittedly,  more  labour  would,  as  a  rule,  be  forthcoming  at  the 
+existing  money-wage  if  it  were  demanded[4].  The  classical  school  reconcile  this 
+
+phenomenon with their second postulate by arguing that, while the demand for labour at 
+the existing money-wage may be satisfied before everyone willing to work at this wage is 
+employed,  this  situation  is  due  to  an  open  or  tacit  agreement  amongst  workers  not  to 
+work for less, and that if labour as a whole would agree to a reduction of money-wages 
+more employment would be forthcoming. If this is the case, such unemployment, though 
+apparently  involuntary,  is  not  strictly  so,  and  ought  to  be  included  under  the  above 
+category of 'voluntary' unemployment due to the effects of collective bargaining, etc. 
+This calls for two observations, the first of which relates to the actual attitude of workers 
+towards real wages and money-wages respectively and is not theoretically fundamental, 
+but the second of which is fundamental. 
+Let us assume, for the moment, that labour is not prepared to work for a lower money-
+wage  and  that  a  reduction  in  the  existing  level  of  money-wages  would  lead,  through 
+strikes  or  otherwise,  to  a  withdrawal  from  the  labour  market  of  labour  which  is  now 
+employed.  Does  it  follow  from  this  that  the  existing  level  of  real  wages  accurately 
+measures the marginal disutility of labour? Not necessarily. For, although a reduction in 
+the existing money-wage would lead to a withdrawal of labour, it does not follow that a 
+fall  in  the  value  of  the  existing  money-wage in  terms  of  wage-goods  would  do  so,  if  it 
+were due to a rise in the price of the latter. In other words, it may be the case that within a 
+certain  range  the  demand  of  labour  is  for  a  minimum  money-wage  and  not  for  a 
+minimum real wage. The classical school have tacitly assumed that this would involve no 
+significant change in their theory. But this is not so. For if the supply of labour is not a 
+function of real wages as its sole variable, their argument breaks down entirely and leaves 
+the  question  of  what  the  actual  employment  will  be  quite  indeterminate[5].  They  do  not 
+seem to have realised that, unless the supply of labour is a function of real wages alone, 
+their supply curve for labour will shift bodily with every movement of prices. Thus their 
+method is tied up with their very special assumptions, and cannot be adapted to deal with 
+the more general case. 
+Now ordinary experience tells us, beyond doubt, that a situation where labour stipulates 
+(within  limits)  for  a  money-wage  rather  than  a  real  wage,  so  far  from  being  a  mere 
+possibility, is the normal case. Whilst workers will usually resist a reduction of money-
+wages, it is not their practice to withdraw their labour whenever there is a rise in the price 
+of  wage-goods.  It  is  sometimes  said  that  it  would  be  illogical  for  labour  to  resist  a 
+reduction of money-wages but not to resist a reduction of real wages. For reasons given 
+below (p. 14), this might not be so illogical as it appears at first; and, as we shall see later, 
+fortunately so. But, whether logical or illogical, experience shows that this is how labour 
+in fact behaves. 
+Moreover, the contention that the unemployment which characterises a depression is due 
+to a refusal by labour to accept a reduction of money-wages is not clearly supported by 
+the facts. It is not very plausible to assert that unemployment in the United States in 1932 
+was due either to labour obstinately refusing to accept a reduction of money-wages or to 
+its  obstinately  demanding  a  real  wage  beyond  what  the  productivity  of  the  economic 
+machine  was  capable  of  furnishing.  Wide  variations  are  experienced  in  the  volume  of 
+
+employment without any apparent change either in the minimum real demands of labour 
+or in its productivity. Labour is not more truculent in the depression than in the boom—
+far from it. Nor is its physical productivity less. These facts from experience are a prima 
+facie ground for questioning the adequacy of the classical analysis. 
+It would be interesting to see the results of a statistical enquiry into the actual relationship 
+between  changes  in  money-wages  and  changes  in  real  wages.  In  the  case  of  a  change 
+peculiar to a particular industry one would expect the change in real wages to be in the 
+same direction as the change in money-wages. But in the case of changes in the general 
+level of wages, it will be found, I think, that the change in real wages associated with a 
+change in money-wages, so far from being usually in the same direction, is almost always 
+in the opposite direction. When money-wages are rising, that is to say, it will be found 
+that real wages are falling; and when money-wages are falling, real wages are rising. This 
+is because, in the short period, falling money-wages and rising real wages are each, for 
+independent reasons, likely to  accompany  decreasing  employment;  labour being  readier 
+to accept wage-cuts when employment is falling off, yet real wages inevitably rising in 
+the  same  circumstances  on  account  of  the  increasing  marginal  return  to  a  given  capital 
+equipment when output is diminished. 
+If, indeed, it were true that the existing real wage is a minimum below which more labour 
+than  is  now  employed  will  not  be  forthcoming  in  any  circumstances,  involuntary 
+unemployment,  apart  from  frictional  unemployment,  would  be  non-existent.  But  to 
+suppose  that  this  is  invariably  the  case  would  be  absurd.  For  more  labour  than  is  at 
+present employed is usually available at the existing money-wage, even though the price 
+of wage-goods is rising and, consequently, the real wage falling. If this is true, the wage-
+goods  equivalent  of  the  existing  money-wage  is  not  an  accurate  indication  of  the 
+marginal disutility of labour, and the second postulate does not hold good. 
+But there is a more fundamental objection. The second postulate flows from the idea that 
+the  real  wages  of  labour  depend  on  the  wage  bargains  which  labour  makes  with  the 
+entrepreneurs.  It  is  admitted,  of  course,  that  the  bargains  are  actually  made  in  terms  of 
+money, and even that the real wages acceptable to labour are not altogether independent 
+of what the corresponding money-wage happens to be. Nevertheless it is the money-wage 
+thus  arrived  at  which  is  held  to  determine  the  real  wage.  Thus  the  classical  theory 
+assumes that it is always open to labour to reduce its real wage by accepting a reduction 
+in  its  money-wage.  The  postulate  that  there  is  a  tendency  for  the  real  wage  to  come  to 
+equality with the marginal disutility of labour clearly presumes that labour itself is in a 
+position  to  decide  the  real  wage  for  which  it  works,  though  not  the  quantity  of 
+employment forthcoming at this wage. 
+The  traditional  theory  maintains,  in  short,  that  the  wage  bargains  between  the 
+entrepreneurs  and  the  workers  determine  the  real  wage;  so  that,  assuming  free 
+competition  amongst  employers  and  no  restrictive  combination  amongst  workers,  the 
+latter can, if they wish, bring their real wages into conformity with the marginal disutility 
+of the amount of employment offered by the employers at that wage. If this is not true, 
+
+then there is no longer any reason to expect a tendency towards equality between the real 
+wage and the marginal disutility of labour. 
+The  classical  conclusions  are  intended,  it  must  be  remembered,  to  apply  to  the  whole 
+body of labour and do not mean merely that a single individual can get employment by 
+accepting  a  cut  in  money-wages  which  his  fellows  refuse.  They  are  supposed  to  be 
+equally applicable to a closed system as to an open system, and are not dependent on the 
+characteristics  of  an  open  system  or  on  the  effects  of  a  reduction  of  money-wages  in  a 
+single country on its foreign trade, which lie, of course, entirely outside the field of this 
+discussion. Nor are they based on indirect effects due to a lower wages-bill in terms of 
+money  having  certain  reactions  on  the  banking  system  and  the  state  of  credit,  effects 
+which  we  shall  examine  in  detail  in  chapter  19.  They  are  based  on  the  belief  that  in  a 
+closed system a reduction in the general level of money-wages will be accompanied, at 
+any rate in the short period and subject only to minor qualifications, by some, though not 
+always a proportionate, reduction in real wages. 
+Now  the  assumption  that  the  general  level  of  real  wages  depends  on  the  money-wage 
+bargains  between  the  employers  and  the  workers  is  not  obviously  true.  Indeed  it  is 
+strange that so little attempt should have been made to prove or to refute it. For it is far 
+from being consistent with the general tenor of the classical theory, which has taught us 
+to  believe  that  prices  are  governed  by  marginal  prime  cost  in  terms  of  money  and  that 
+money-wages  largely  govern  marginal  prime  cost.  Thus  if  money-wages  change,  one 
+would have expected the classical school to argue that prices would change in almost the 
+same  proportion,  leaving  the  real  wage  and  the  level  of  unemployment  practically  the 
+same as before, any small gain or loss to labour  being at  the expense or profit of other 
+elements of marginal cost which have been left unaltered[6]. They seem, however, to have 
+been diverted from this line of thought, partly by the settled conviction that labour is in a 
+position  to  determine  its  own  real  wage  and  partly,  perhaps,  by  preoccupation  with  the 
+idea that prices depend on the quantity of money. And the belief in the proposition that 
+labour  is  always  in  a  position  to  determine  its  own  real  wage,  once  adopted,  has  been 
+unattained by its being confused with the proposition that labour is always in a position to 
+determine what real wage shall correspond to full employment, i.e. the maximum quantity 
+of employment which is compatible with a given real wage. 
+To sum up: there are two objections to the second postulate of the classical theory. The 
+first relates to the actual behaviour of labour. A fall in real wages due to a rise in prices, 
+with money-wages unaltered, does not, as a rule, cause the supply of available labour on 
+offer at the current wage to fall below the amount actually employed prior to the rise of 
+prices.  To  state  it  does  is  to  suppose  that  all  those  who  are  now  unemployed  though 
+willing to work at the current wage will withdraw the offer of their labour in the event of 
+even a small rise in the cost of living. Yet this strange supposition apparently underlies 
+Professor Pigou's Theory of Unemployment[7], and it is what all members of the orthodox 
+school are tacitly assuming. 
+But  the  other,  more  fundamental,  objection,  which  we  shall  develop  in  the  ensuing 
+chapters, flows from our disputing the assumption that the general level of real wages is 
+
+directly  determined  by  the  character  of  the  wage  bargain.  In  assuming  that  the  wage 
+bargain determines the real wage the classical school have slept in an illicit assumption. 
+For  there  may  be  no  method  available  to  labour  as  a  whole  whereby  it  can  bring  the 
+wage-goods  equivalent  of  the  general  level  of  money  wages  into  conformity  with  the 
+marginal disutility of the current volume of employment. There may exist no expedient 
+by which labour as a whole can reduce its real wage to a given figure by making revised 
+money bargains with the entrepreneurs. This will be our contention. We shall endeavour 
+to show that primarily it is certain other forces which determine the general level of real 
+wages. The attempt to elucidate this problem will be one of our main themes. We shall 
+argue  that  there  has  been  a  fundamental  misunderstanding  of  how  in  this  respect  the 
+economy in which we live actually works. 
+III 
+Though the struggle over money-wages between individuals and groups is often believed 
+to  determine  the  general  level  of  real-wages,  it  is,  in  fact,  concerned  with  a  different 
+object.  Since  there  is  imperfect  mobility  of  labour,  and  wages  do  not  tend  to  an  exact 
+equality of net advantage in different occupations, any individual or group of individuals, 
+who  consent  to  a  reduction  of  money-wages  relatively  to  others,  will  suffer  a  relative 
+reduction  in  real  wages,  which  is  a  sufficient  justification  for  them  to  resist  it.  On  the 
+other  hand  it  would  be  impracticable  to  resist  every  reduction  of  real  wages,  due  to  a 
+change  in  the  purchasing-power  of  money  which  affects  all  workers  alike;  and  in  fact 
+reductions of real wages arising in this way are not, as a rule, resisted unless they proceed 
+to an extreme degree. Moreover, a resistance to reductions in money-wages applying to 
+particular industries does not raise the same insuperable bar to an increase in aggregate 
+employment  which  would  result  from  a  similar  resistance  to  every  reduction  in  real 
+wages. 
+In other words, the struggle about money-wages primarily affects the distribution of the 
+aggregate real wage between different labour-groups, and not its average amount per unit 
+of employment, which depends, as we shall see, on a different set of forces. The effect of 
+combination on the part of a group of workers is to protect their relative real wage. The 
+general level of real wages depends on the other forces of the economic system. 
+Thus  it  is  fortunate  that  the  workers,  though  unconsciously,  are  instinctively  more 
+reasonable  economists  than  the  classical  school,  inasmuch  as  they  resist  reductions  of 
+money-wages,  which  are  seldom  or  never  of  an  all-round  character,  even  though  the 
+existing  real  equivalent  of  these  wages  exceeds  the  marginal  disutility  of  the  existing 
+employment;  whereas  they  do  not  resist  reductions  of  real  wages,  which  are  associated 
+with  increases  in  aggregate  employment  and  leave  relative  money-wages  unchanged, 
+unless the reduction proceeds so far as to threaten a reduction of the real wage below the 
+marginal disutility of the existing volume of employment. Every trade union will put up 
+some resistance to a cut in money-wages, however small. But since no trade union would 
+dream of striking on every occasion of a rise in the cost of living, they do not raise the 
+obstacle  to  any  increase  in  aggregate  employment  which  is  attributed  to  them  by  the 
+classical school. 
+
+IV 
+We  must  now  define  the  third  category  of  unemployment,  namely  'involuntary' 
+unemployment  in  the  strict  sense,  the  possibility  of  which  the  classical  theory  does  not 
+admit. 
+Clearly  we  do  not  mean  by  'involuntary'  unemployment  the  mere  existence  of  an 
+unexhausted  capacity  to  work.  An  eight-hour  day  does  not  constitute  unemployment 
+because  it  is  not  beyond  human  capacity  to  work  ten  hours.  Nor  should  we  regard  as 
+'involuntary' unemployment the withdrawal of their labour by a body of workers because 
+they  do  not  choose  to  work  for  less  than  a  certain  real  reward.  Furthermore,  it  will  be 
+convenient  to  exclude  'frictional'  unemployment  from  our  definition  of  'involuntary' 
+unemployment.  My  definition 
+involuntarily 
+unemployed  If,  in  the  event  of  a  small  rise  in  the  price  of  wage-goods  relatively  to  the 
+money-wage, both the aggregate supply of labour willing to work for the current money-
+wage  and  the  aggregate  demand  for  it  at  that  wage  would  be  greater  than  the  existing 
+volume  of  employment. An alternative definition, which amounts, however, to the same 
+thing, will be given in the next chapter (Chapter 3). 
+therefore,  as  follows:  Men  are 
+is, 
+It follows from this definition that the equality of the real wage to the marginal disutility 
+of  employment  presupposed  by 
+interpreted, 
+corresponds to the absence of 'involuntary' unemployment. This state of affairs we shall 
+describe  as  'full'  employment,  both  'frictional'  and  'voluntary'  unemployment  being 
+consistent  with  'full'  employment  thus  defined.  This  fits  in,  we  shall  find,  with  other 
+characteristics of the classical theory, which is best regarded as a theory of distribution in 
+conditions  of  full  employment.  So  long  as  the  classical  postulates  hold  good, 
+unemployment,  which  is  in  the  above  sense  involuntary,  cannot  occur.  Apparent 
+unemployment  must,  therefore,  be  the  result  either  of  temporary  loss  of  work  of  the 
+'between  jobs'  type  or  of  intermittent  demand  for  highly  specialised  resources  or  of  the 
+effect of a trade union 'closed shop' on the employment of free labour. Thus writers in the 
+classical tradition, overlooking the special assumption underlying their theory, have been 
+driven  inevitably  to  the  conclusion,  perfectly  logical  on  their  assumption,  that  apparent 
+unemployment (apart from the admitted exceptions) must be due at bottom to a refusal by 
+the  unemployed  factors  to  accept  a  reward  which  corresponds  to  their  marginal 
+productivity.  A  classical  economist  may  sympathise  with  labour  in  refusing  to  accept  a 
+cut  in  its  money-wage,  and  he  will  admit  that  it  may  not  be  wise  to  make  it  to  meet 
+conditions  which  are  temporary;  but  scientific  integrity  forces  him  to  declare  that  this 
+refusal is, nevertheless, at the bottom of the trouble. 
+the  second  postulate,  realistically 
+Obviously,  however,  if  the  classical  theory  is  only  applicable  to  the  case  of  full 
+employment, it is fallacious to apply it to the problems of involuntary unemployment—if 
+there be such a thing (and who will deny it?). The classical theorists resemble Euclidean 
+geometers  in  a  non-Euclidean  world  who,  discovering  that  in  experience  straight  lines 
+apparently  parallel  often  meet,  rebuke  the  lines  for  not  keeping  straight—as  the  only 
+remedy  for  the  unfortunate  collisions  which  are  occurring.  Yet,  in  truth,  there  is  no 
+remedy  except  to  throw  over  the  axiom  of  parallels  and  to  work  out  a  non-Euclidean 
+
+geometry. Something similar is required to-day in economics. We need to throw over the 
+second postulate  of the  classical  doctrine and to  work  out  the  behaviour  of  a  system  in 
+which involuntary unemployment in the strict sense is possible. 
+V 
+In emphasising our point of departure from the classical system, we must not overlook an 
+important  point  of  agreement.  For  we  shall  maintain  the  first  postulate  as  heretofore, 
+subject only to the same qualifications as in the classical theory; and we must pause, for a 
+moment, to consider what this involves. 
+It  means  that,  with  a  given  organisation,  equipment  and  technique,  real  wages  and  the 
+volume of output (and hence of employment) are uniquely correlated, so that, in general, 
+an increase in employment can only occur to the accompaniment of a decline in the rate 
+of real wages. Thus I am not disputing this vital fact which the classical economists have 
+(rightly)  asserted  as  indefeasible.  In  a  given  state  of  organisation,  equipment  and 
+technique, the real wage earned by a unit of labour has a unique (inverse) correlation with 
+the volume of employment. Thus if employment increases, then, in the short period, the 
+reward  per  unit  of  labour  in  terms  of  wage-goods  must,  in  general,  decline  and  profits 
+increase[8]. This is simply the obverse of the familiar proposition that industry is normally 
+working subject to decreasing returns in the short period during which equipment etc. is 
+assumed to be constant; so that the marginal product in the wage-good industries (which 
+governs real wages) necessarily diminishes as employment is increased. So long, indeed, 
+as  this  proposition  holds,  any  means  of  increasing  employment  must  lead  at  the  same 
+time to a diminution of the marginal product and hence of the rate of wages measured in 
+terms of this product. 
+But when we have thrown over the second postulate, a decline in employment, although 
+necessarily associated with labour's receiving a wage equal in value to a larger quantity of 
+wage-goods,  is  not  necessarily  due  to  labour's  demanding  a  larger  quantity  of  wage-
+goods;  and  a  willingness  on  the  part  of  labour  to  accept  lower  money-wages  is  not 
+necessarily a remedy for unemployment. The theory of wages in relation to employment, 
+to  which  we  are  here  leading  up,  cannot  be  fully  elucidated,  however,  until  chapter  19 
+and its Appendix have been reached. 
+VI 
+From  the  time  of  Say  and  Ricardo  the  classical  economists  have  taught  that  supply 
+creates  its  own  demand;—meaning  by  this  in  some  significant,  but  not  clearly  defined, 
+sense that the whole of the costs of production must necessarily be spent in the aggregate, 
+directly or indirectly, on purchasing the product. 
+In J.S. Mill's Principles of Political Economy the doctrine is expressly set forth: 
+What  constitutes  the  means  of  payment  for  commodities  is  simply 
+commodities. Each person's means of paying for the productions of other 
+
+people  consist  of  those  which  he  himself  possesses.  All  sellers  are 
+inevitably,  and  by  the  meaning  of  the  word,  buyers.  Could  we  suddenly 
+double the productive powers of the country, we should double the supply 
+of  commodities  in  every  market;  but  we  should,  by  the  same  stroke, 
+double the purchasing power. Everybody would bring a double demand as 
+well  as  supply;  everybody  would  be  able  to  buy  twice  as  much,  because 
+every one would have twice as much to offer in exchange. 
+As  a  corollary  of  the  same  doctrine,  it  has  been  supposed  that  any  individual  act  of 
+abstaining  from  consumption  necessarily  leads  to,  and  amounts  to  the  same  thing  as, 
+causing  the  labour  and  commodities  thus  released  from  supplying  consumption  to  be 
+invested in the production of capital wealth. The following passage from Marshall's Pure 
+Theory of Domestic Values[9] illustrates the traditional approach: 
+The whole of a man's income is expended in the purchase of services and 
+of  commodities.  It  is  indeed  commonly  said  that  a  man  spends  some 
+portion  of  his  income  and  saves  another.  But  it  is  a  familiar  economic 
+axiom that a man purchases labour and commodities with that portion of 
+his income which he saves just as much as he does with that he is said to 
+spend. He is said to spend when he seeks to obtain present enjoyment from 
+the services and commodities which he purchases. He is said to save when 
+he  causes  the  labour  and  the  commodities  which  he  purchases  to  be 
+devoted to the production of wealth from which he expects to derive the 
+means of enjoyment in the future. 
+It  is  true  that  it  would  not  be  easy  to  quote  comparable  passages  from  Marshall's  later 
+work[10] or from Edgeworth or Professor Pigou. The doctrine is never stated to-day in this 
+crude  form.  Nevertheless  it  still  underlies  the  whole  classical  theory,  which  would 
+collapse without it. Contemporary economists, who might hesitate to agree with Mill, do 
+not  hesitate  to  accept  conclusions  which  require  Mill's  doctrine  as  their  premises.  The 
+conviction,  which  runs,  for  example,  through  almost  all  Professor  Pigou's  work,  that 
+money makes no real difference except frictionally and that the theory of production and 
+employment  can  be  worked  out  (like  Mill's)  as  being  based  on  'real'  exchanges  with 
+money introduced perfunctorily in a later chapter, is the modern version of the classical 
+tradition. Contemporary thought is still deeply steeped in the notion that if people do not 
+spend  their  money  in  one  way  they  will  spend  it  in  another[11].  Post-war  economists 
+seldom, indeed, succeed in maintaining this standpoint consistently; for their thought to-
+day is too much permeated with the contrary tendency and with facts of experience too 
+obviously inconsistent with their former view[12]. But they have not drawn sufficiently far-
+reaching consequences; and have not revised their fundamental theory. 
+In the first instance, these conclusions may have been applied to the kind of economy in 
+which  we  actually  live  by  false  analogy  from  some  kind  of  non-exchange  Robinson 
+Crusoe economy, in which the income which individuals consume or retain as a result of 
+their productive activity is, actually and exclusively, the output in specie of that activity. 
+But,  apart  from  this,  the  conclusion  that  the  costs  of  output  are  always  covered  in  the 
+
+aggregate by the sale-proceeds resulting from demand, has great plausibility, because it is 
+difficult to distinguish it from another, similar-looking proposition which is indubitable, 
+namely  that  the  income  derived  in  the  aggregate  by  all  the  elements  in  the  community 
+concerned  in  a  productive  activity  necessarily  has  a  value  exactly  equal  to  the  value  of 
+the output. 
+Similarly  it  is  natural  to  suppose  that  the  act  of  an  individual,  by  which  he  enriches 
+himself  without  apparently  taking  anything  from  anyone  else,  must  also  enrich  the 
+community  as  a  whole;  so  that  (as  in  the  passage  just  quoted  from  Marshall)  an  act  of 
+individual  saving  inevitably  leads  to  a  parallel  act  of  investment.  For,  once  more,  it  is 
+indubitable  that  the  sum  of  the  net  increments  of  the  wealth  of  individuals  must  be 
+exactly equal to the aggregate net increment of the wealth of the community. 
+Those  who  think  in  this  way  are  deceived,  nevertheless,  by  an  optical  illusion,  which 
+makes  two  essentially  different  activities  appear  to  be  the  same.  They  are  fallaciously 
+supposing  that  there  is  a  nexus  which  unites  decisions  to  abstain  from  present 
+consumption  with  decisions  to  provide  for  future  consumption;  whereas  the  motives 
+which  determine  the  latter  are  not  linked  in  any  simple  way  with  the  motives  which 
+determine the former. 
+It is, then, the assumption of equality between the demand price of output as a whole and 
+its  supply  price  which  is  to  be  regarded  as  the  classical  theory's  'axiom  of  parallels'. 
+Granted this, all the rest follows—the social advantages of private and national thrift, the 
+traditional attitude towards the rate of interest, the classical theory of unemployment, the 
+quantity theory of money, the unqualified advantages of laissez-faire in respect of foreign 
+trade and much else which we shall have to question. 
+VII 
+At  different  points  in  this  chapter  we  have  made  the  classical  theory  to  depend  in 
+succession on the assumptions: 
+1.  that the real wage is equal to the marginal disutility of the existing employment; 
+2.  that there is no such thing as involuntary unemployment in the strict sense; 
+3.  that supply creates its own demand in the sense that the aggregate demand price is 
+equal to the aggregate supply price for all levels of output and employment. 
+These three assumptions, however, all amount to the same thing in the sense that they all 
+stand and fall together, any one of them logically involving the other two. 
+1. This is in the Ricardian tradition. For Ricardo expressly repudiated any interest in the amount of 
+the  national  dividend,  as  distinct  from  its  distribution.  In  this  he  was  assessing  correctly  the 
+character of his own theory. But his successors, less clear-sighted, have used the classical theory in 
+discussions concerning the causes of wealth. Vide Ricardo’s letter to Malthus of October 9, 1820: 
+“Political  Economy  you  think  is  an  enquiry  into  the  nature  and  causes  of  wealth  —  I  think  it 
+should be called an enquiry into the laws which determine the division of the produce of industry 
+amongst the classes who concur in its formation. No law can be laid down respecting quantity, but 
+
+a  tolerably  correct  one  can  be  laid  down  respecting  proportions.  Every  day  I  am  more  satisfied 
+that the former enquiry is vain and delusive, and the latter only the true objects of the science.” 
+2.  For  example,  Prof.  Pigou  in  the  Economics  of  Welfare  (4th  ed.  p.  127)  writes  (my  italics): 
+“Throughout  this  discussion,  except  when  the  contrary  is  expressly  stated,  the  fact  that  some 
+resources are generally unemployed against the will of the owners is ignored. This does not affect 
+the substance of the argument, while it simplifies its exposition.”. Thus, whilst Ricardo expressly 
+disclaimed any attempt to deal with the amount of the national dividend as a whole, Prof. Pigou, in 
+a  book  which  is  specifically  directed  to the  problem  of  the national  dividend,  maintains that the 
+same  theory  holds  when  there  is  some  involuntary  unemployment  as  in  the  case  of  full 
+employment. 
+3. Prof. Pigou’s Theory of Unemployment is examined in more detail in the Appendix to Chapter 19 
+below. 
+4. Cf. the quotation from Prof. Pigou above, p. 5, footnote. 
+5. This point is dealt with in detail in the Appendix to Chapter 19 below. 
+6.  This  argument  would,  indeed,  contain,  to  my  thinking,  a  large  element  of  truth,  though  the 
+complete results of a change in money-wages are more complex, as we shall show in Chapter 19 
+below. 
+7. Cf. Chapter 19, Appendix. 
+8.  The  argument  runs  as  follows:  n  men  are  employed,  the  nth  man  adds  a  bushel  a  day  to  the 
+harvest, and wages have a buying power of a bushel a day. The n + 1 th man, however, would only 
+add .9 bushel a day, and employment cannot, therefore, rise to n + 1 men unless the price of corn 
+rises  relatively  to  wages  until  daily  wages  have  a  buying  power  of  .9  bushel.  Aggregate  wages 
+would  then  amount  to  9/10  (n  +  1)  bushels  as  compared  with  n  bushels  previously.  Thus  the 
+employment of an additional man will, if it occurs, necessarily involve a transfer of income from 
+those previously in work to the entrepreneurs. 
+9. p. 34. 
+10. Mr. J. A. Hobson, after quoting in his Physiology of Industry (p. 102) the above passage from Mill, 
+points  out  that  Marshall  commented  as  follows  on  this  passage  as  early  as  his  Economics  of 
+Industry, p. 154. “But though men have the power to purchase, they may not choose to use it.” 
+“But”, Mr Hobson continues, “he fails to grasp the critical importance of this fact, and appears 
+to limit its action to periods of ‘crisis’.” This has remained fair comment, I think, in the light of 
+Marshall’s later work. 
+11.  Cf.  Alfred  and  Mary  Marshall,  Economics  of  Industry,  p.  17:  “It  is  not  good  for  trade  to  have 
+dresses  made  of  material  which  wears  out  quickly.  For  if  people  did  not  spend  their  means  on 
+buying new dresses they would spend them on giving employment to labour in some other way.” 
+The  reader  will  notice  that  I  am  again  quoting  from  the  earlier  Marshall.  The  Marshall  of  the 
+Principles  had  become  sufficiently  doubtful  to  be  very  cautious  and  evasive.  But  the  old  ideas 
+were never repudiated or rooted out of the basic assumptions of his thought. 
+12.  It  is  this  distinction  of  Prof.  Robbins  that  he,  almost  alone,  continues  to  maintain  a  consistent 
+scheme of thought, his practical recommendations belonging to the same system as his theory. 
+  
+
+ 
+Chapter 3 
+THE PRINCIPLE OF EFFECTIVE DEMAND 
+I 
+We need, to start with, a few terms which will be defined precisely later. In a given state 
+of  technique,  resources  and  costs,  the  employment  of  a  given  volume  of  labour  by  an 
+entrepreneur  involves  him  in  two  kinds  of  expense:  first  of  all,  the  amounts  which  he 
+pays out to the factors of production (exclusive of other entrepreneurs) for their current 
+services, which we shall call the factor cost of the employment in question; and secondly, 
+the amounts which he pays out to other entrepreneurs for what he has to purchase from 
+them together with the sacrifice which he incurs by employing the equipment instead of 
+leaving  it  idle,  which  we  shall  call  the  user  cost  of  the  employment  in  question[1].  The 
+excess of the value of the resulting output over the sum of its factor cost and its user cost 
+is the profit or, as we shall call it, the income of the entrepreneur. The factor cost is, of 
+course, the same thing, looked at from the point of view of the entrepreneur, as what the 
+factors of production regard as their income. Thus the factor cost and the entrepreneur's 
+profit make up, between them, what we shall define as the total income resulting from the 
+employment  given  by  the  entrepreneur.  The  entrepreneur's  profit  thus  defined  is,  as  it 
+should  be,  the  quantity  which  he  endeavours  to  maximise  when  he  is  deciding  what 
+amount  of  employment  to  offer.  It  is  sometimes  convenient,  when  we  are  looking  at  it 
+from  the  entrepreneur's  standpoint,  to  call  the  aggregate  income  (i.e.  factor  cost  plus 
+profit) resulting from a given amount of employment the proceeds of that employment. 
+On  the  other  hand,  the  aggregate  supply  price[2]  of  the  output  of  a  given  amount  of 
+employment is the expectation of proceeds which will just make it worth the while of the 
+entrepreneurs to give that employment[3]. 
+It  follows  that  in  a  given  situation  of  technique,  resources  and  factor  cost  per  unit  of 
+employment, the amount of employment, both in each individual firm and industry and in 
+the aggregate, depends on the amount of the proceeds which the entrepreneurs expect to 
+receive  from  the  corresponding  output[4].  For  entrepreneurs  will  endeavour  to  fix  the 
+amount  of  employment  at  the  level  which  they  expect  to  maximise  the  excess  of  the 
+proceeds over the factor cost. 
+Let Z be the aggregate supply price of the output from employing N men, the relationship 
+between  Z  and  N  being  written  Z  =  φ(N),  which  can  be  called  the  aggregate  supply 
+function[5].  Similarly,  let  D  be  the  proceeds  which  entrepreneurs  expect  to  receive  from 
+the  employment  of  N  men,  the  relationship  between  D  and  N  being  written  D  =  f(N), 
+which can be called the aggregate demand function. 
+Now if for a given value of N the expected proceeds are greater than the aggregate supply 
+price,  i.e.  if  D  is  greater  than  Z,  there  will  be  an  incentive  to  entrepreneurs  to  increase 
+employment beyond N and, if necessary, to raise costs by competing with one another for 
+
+the factors of production, up to the value of N for which Z has become equal to D. Thus 
+the  volume  of  employment  is  given  by  the  point  of  intersection  between  the  aggregate 
+demand  function  and  the  aggregate  supply  function;  for  it  is  at  this  point  that  the 
+entrepreneurs' expectation of profits will be maximised. The value of D at the point of the 
+aggregate demand function, where it is intersected by the aggregate supply function, will 
+be  called  the  effective  demand.  Since  this  is  the  substance  of  the  General  Theory  of 
+Employment,  which  it  will  be  our  object  to  expound,  the  succeeding  chapters  will  be 
+largely  occupied  with  examining  the  various  factors  upon  which  these  two  functions 
+depend. 
+The classical doctrine, on the other hand, which used to be expressed categorically in the 
+statement  that  'Supply  creates  its  own  Demand'  and  continues  to  underlie  all  orthodox 
+economic theory, involves a special assumption as to the relationship between these two 
+functions. For 'Supply creates its own Demand' must mean that f(N) and φ(N) are equal 
+for all values of N, i.e. for all levels of output and employment; and that when there is an 
+increase  in  Z  ( = φ(N))  corresponding  to  an  increase  in  N,  D  ( = f(N))  necessarily 
+increases by the same amount as Z. The classical theory assumes, in other words, that the 
+aggregate  demand  price  (or  proceeds)  always  accommodates  itself  to  the  aggregate 
+supply  price;  so  that,  whatever  the  value  of  N  may  be,  the  proceeds  D  assume  a  value 
+equal  to  the  aggregate  supply  price  Z  which  corresponds  to  N.  That  is  to  say,  effective 
+demand, instead of having a unique equilibrium value, is an infinite range of values all 
+equally  admissible;  and  the  amount  of  employment  is  indeterminate  except  in  so  far  as 
+the marginal disutility of labour sets an upper limit. 
+If this were true, competition between entrepreneurs would always lead to an expansion 
+of  employment  up  to  the  point  at  which  the  supply  of  output  as  a  whole  ceases  to  be 
+elastic, i.e. where a further increase in the value of the effective demand will no longer be 
+accompanied by any increase in output. Evidently this amounts to the same thing as full 
+employment.  In  the  previous  chapter  we  have  given  a  definition  of  full  employment  in 
+terms  of  the  behaviour  of  labour.  An  alternative,  though  equivalent,  criterion  is  that  at 
+which  we  have  now  arrived,  namely  a  situation  in  which  aggregate  employment  is 
+inelastic in response to an increase in the effective demand for its output. Thus Say's law, 
+that the aggregate demand price of output as a whole is equal to its aggregate supply price 
+for all volumes of output, is equivalent to the proposition that there is no obstacle to full 
+employment.  If,  however,  this  is  not  the  true  law  relating  the  aggregate  demand  and 
+supply functions, there is a vitally important chapter of economic theory which remains 
+to  be  written  and  without  which  all  discussions  concerning  the  volume  of  aggregate 
+employment are futile. 
+II 
+A  brief  summary  of  the  theory  of  employment  to  be  worked  out  in  the  course  of  the 
+following chapters may, perhaps, help the reader at this stage, even though it may not be 
+fully intelligible. The terms involved will be more carefully defined in due course. In this 
+summary  we  shall  assume  that  the  money-wage  and  other  factor  costs  are  constant  per 
+unit  of  labour  employed.  But  this  simplification,  with  which  we  shall  dispense  later,  is 
+
+introduced  solely  to  facilitate  the  exposition.  The  essential  character  of  the  argument  is 
+precisely the same whether or not money-wages, etc., are liable to change. 
+The  outline  of  our  theory  can  be  expressed  as  follows.  When  employment  increases, 
+aggregate real income is increased. The psychology of the community is such that when 
+aggregate  real  income  is  increased  aggregate  consumption  is  increased,  but  not  by  so 
+much  as  income.  Hence  employers  would  make  a  loss  if  the  whole  of  the  increased 
+employment  were  to  be  devoted  to  satisfying  the  increased  demand  for  immediate 
+consumption. Thus, to justify any given amount of employment there must be an amount 
+of  current  investment  sufficient  to  absorb  the  excess  of  total  output  over  what  the 
+community chooses to consume when employment is at the given level. For unless there 
+is this amount of investment, the receipts of the entrepreneurs will be less than is required 
+to induce them to offer the given amount of employment. It follows, therefore, that, given 
+what  we  shall  call  the  community's  propensity  to  consume,  the  equilibrium  level  of 
+employment, i.e. the level at which there is no inducement to employers as a whole either 
+to expand or to contract employment, will depend on the amount of current investment. 
+The  amount  of  current  investment  will  depend,  in  turn,  on  what  we  shall  call  the 
+inducement  to  invest;  and  the  inducement  to  invest  will  be  found  to  depend  on  the 
+relation  between  the  schedule  of  the  marginal  efficiency  of  capital  and  the  complex  of 
+rates of interest on loans of various maturities and risks. 
+Thus, given the propensity to consume and the rate of new investment, there will be only 
+one level of employment consistent with equilibrium; since any other level will lead to 
+inequality  between  the  aggregate  supply  price  of  output  as  a  whole  and  its  aggregate 
+demand  price.  This  level  cannot  be  greater  than  full  employment,  i.e.  the  real  wage 
+cannot be less than the marginal disutility of labour. But there is no reason in general for 
+expecting  it  to  be  equal  to  full  employment.  The  effective  demand  associated  with  full 
+employment  is  a  special  case,  only  realised  when  the  propensity  to  consume  and  the 
+inducement  to  invest  stand  in  a  particular  relationship  to  one  another.  This  particular 
+relationship, which corresponds to the assumptions of the classical theory, is in a sense an 
+optimum  relationship.  But  it  can  only  exist  when,  by  accident  or  design,  current 
+investment  provides  an  amount  of  demand  just  equal  to  the  excess  of  the  aggregate 
+supply price of the output resulting from full employment over what the community will 
+choose to spend on consumption when it is fully employed. 
+This theory can be summed up in the following propositions: 
+(1)  In  a  given  situation  of  technique,  resources  and  costs,  income  (both  money-income 
+and real income) depends on the volume of employment N. 
+(2)  The  relationship  between  the  community's  income  and  what  it  can  be  expected  to 
+spend on consumption, designated by D1, will depend on the psychological characteristic 
+of  the  community,  which  we  shall  call  its  propensity  to  consume.  That  is  to  say, 
+consumption will depend on the level of aggregate income and, therefore, on the level of 
+employment N, except when there is some change in the propensity to consume. 
+
+(3)  The  amount  of  labour  N  which  the  entrepreneurs  decide  to  employ  depends  on  the 
+sum (D) of two quantities, namely D1, the amount which the community is expected to 
+spend  on  consumption,  and  D2,  the  amount  which  it  is  expected  to  devote  to  new 
+investment. D is what we have called above the effective demand. 
+(4)  Since D1  + D2  =  D  =    φ(N), where is the aggregate supply function, and since, as 
+we have seen in (2) above, D1 is a function of N, which we may write χ(N), depending on 
+the propensity to consume, it follows that φ(N) − χ(N)  =   D2. 
+(5) Hence the volume of employment in equilibrium depends on (i) the aggregate supply 
+function, (ii) the propensity to consume, and (iii) the volume of investment, D2. This is 
+the essence of the General Theory of Employment. 
+(6) For every value of N there is a corresponding marginal productivity of labour in the 
+wage-goods  industries;  and  it  is  this  which  determines  the  real  wage.  (5)  is,  therefore, 
+subject  to  the  condition  that  N  cannot  exceed  the  value  which  reduces  the  real  wage  to 
+equality with the marginal disutility of labour. This means that not all changes in D are 
+compatible with our temporary assumption that money-wages are constant. Thus it will 
+be essential to a full statement of our theory to dispense with this assumption. 
+(7) On the classical theory, according to which D  =  φ(N) for all values of N, the volume 
+of employment is in neutral equilibrium for all values of N less than its maximum value; 
+so that the forces of competition between entrepreneurs may be expected to push it to this 
+maximum  value.  Only  at  this  point,  on  the  classical  theory,  can  there  be  stable 
+equilibrium. 
+(8) When employment increases, D1will increase, but not by so much as D; since when 
+our income increases our consumption increases also, but not by so much. The key to our 
+practical problem is to be found in this psychological law. For it follows from this that 
+the greater the volume of employment the greater will be the gap between the aggregate 
+supply  price  (Z)  of  the  corresponding  output  and  the  sum  (D1)  which  the  entrepreneurs 
+can expect to get back out of the expenditure of consumers. Hence, if there is no change 
+in the propensity to consume, employment cannot increase, unless at the same time D2 is 
+increasing so as to fill the increasing gap between Z and D1. Thus—except on the special 
+assumptions of the classical theory according to which there is some force in operation 
+which, when employment increases, always causes D2 to increase sufficiently to fill the 
+widening  gap  between  Z  and  D1—the  economic  system  may  find  itself  in  stable 
+equilibrium  with  N  at  a  level  below  full  employment,  namely  at  the  level  given  by  the 
+intersection of the aggregate demand function with the aggregate supply function. 
+Thus  the  volume  of  employment  is  not  determined  by  the  marginal  disutility  of  labour 
+measured in terms of real wages, except in so far as the supply of labour available at a 
+given  real  wage  sets  a  maximum  level  to  employment.  The  propensity  to  consume  and 
+the rate of new investment determine between them the volume of employment, and the 
+volume of employment is uniquely related to a given level of real wages—not the other 
+way  round.  If  the  propensity  to  consume  and  the  rate  of  new  investment  result  in  a 
+
+deficient effective demand, the actual level of employment will fall short of the supply of 
+labour potentially available at the existing real wage, and the equilibrium real wage will 
+be greater than the marginal disutility of the equilibrium level of employment. 
+This analysis supplies us with an explanation of the paradox of poverty in the midst of 
+plenty.  For  the  mere  existence  of  an  insufficiency  of  effective  demand  may,  and  often 
+will, bring the increase of employment to a standstill before a level of full employment 
+has  been  reached.  The  insufficiency  of  effective  demand  will  inhibit  the  process  of 
+production in spite of the fact that the marginal product of labour still exceeds in value 
+the marginal disutility of employment. 
+Moreover the richer the community, the wider will tend to be the gap between its actual 
+and its potential production; and therefore the more obvious and outrageous the defects of 
+the economic system. For a poor community will be prone to consume by far the greater 
+part  of  its  output,  so  that  a  very  modest  measure  of  investment  will  be  sufficient  to 
+provide  full  employment;  whereas  a  wealthy  community  will  have  to  discover  much 
+ampler  opportunities  for  investment  if  the  saving  propensities  of  its  wealthier  members 
+are  to  be  compatible  with  the  employment  of  its  poorer  members.  If  in  a  potentially 
+wealthy community the inducement to invest is weak, then, in spite of its potential wealth, 
+the working of the principle of effective demand will compel it to reduce its actual output, 
+until,  in  spite  of  its  potential  wealth,  it  has  become  so  poor  that  its  surplus  over  its 
+consumption is sufficiently diminished to correspond to the weakness of the inducement 
+to invest. 
+But  worse  still.  Not  only  is  the  marginal  propensity  to  consume[6]  weaker  in  a  wealthy 
+community,  but,  owing  to  its  accumulation  of  capital  being  already  larger,  the 
+opportunities for further investment are less attractive unless the rate of interest falls at a 
+sufficiently  rapid  rate;  which  'brings  us  to  the  theory  of  the  rate  of  interest  and  to  the 
+reasons  why  it  does  not  automatically  fall  to  the  appropriate  level,  which  will  occupy 
+Book IV. 
+Thus the analysis of the propensity to consume, the definition of the marginal efficiency 
+of  capital  and  the  theory  of  the  rate  of  interest  are  the  three  main  gaps  in  our  existing 
+knowledge which it will be necessary to fill. When this has been accomplished, we shall 
+find that the theory of prices falls into its proper place as a matter which is subsidiary to 
+our general theory. We shall discover, however, that money plays an essential part in our 
+theory  of  the  rate  of  interest;  and  we  shall  attempt  to  disentangle  the  peculiar 
+characteristics of money which distinguish it from other things. 
+III 
+The idea that we can safely neglect the aggregate demand function is fundamental to the 
+Ricardian economics, which underlie what we have been taught for more than a century. 
+Malthus,  indeed,  had  vehemently  opposed  Ricardo's  doctrine  that  it  was  impossible  for 
+effective  demand  to  be  deficient;  but  vainly.  For,  since  Malthus  was  unable  to  explain 
+clearly (apart from an appeal to the facts of common observation) how and why effective 
+
+demand could be deficient or excessive, he failed to furnish an alternative construction; 
+and Ricardo conquered England as completely as the Holy Inquisition conquered Spain. 
+Not only was his theory accepted by the city, by statesmen and by the academic world. 
+But controversy ceased; the other point of view completely disappeared; it ceased to be 
+discussed.  The  great  puzzle  of  effective  demand  with  which  Malthus  had  wrestled 
+vanished from economic literature. You will not find it mentioned even once in the whole 
+works  of  Marshall,  Edgeworth  and  Professor  Pigou,  from  whose  hands  the  classical 
+theory has received its most mature embodiment. It could only live on furtively, below 
+the surface, in the underworlds of Karl Marx, Silvio Gesell or Major Douglas. 
+The completeness of the Ricardian victory is something of a curiosity and a mystery. It 
+must have been due to a complex of suitabilities in the doctrine to the environment into 
+which it was projected. That it reached conclusions quite different from what the ordinary 
+uninstructed  person  would  expect,  added,  I  suppose,  to  its  intellectual  prestige.  That  its 
+teaching, translated into practice, was austere and often unpalatable, lent it virtue. That it 
+was adapted to carry a vast and consistent logical superstructure, gave it beauty. That it 
+could explain much social injustice and apparent cruelty as an inevitable incident in the 
+scheme of progress, and the attempt to change such things as likely on the whole to do 
+more  harm  than  good,  commended  it  to  authority.  That  it  afforded  a  measure  of 
+justification to the free activities of the individual capitalist, attracted to it the support of 
+the dominant social force behind authority. 
+But although the doctrine itself has remained unquestioned by orthodox economists up to 
+a late date, its signal failure for purposes of scientific prediction has greatly impaired, in 
+the  course  of  time,  the  prestige  of  its  practitioners.  For  professional  economists,  after 
+Malthus, were apparently unmoved by the lack of correspondence between the results of 
+their theory and the facts of observation;—a discrepancy which the ordinary man has not 
+failed  to  observe,  with  the  result  of  his  growing  unwillingness  to  accord  to  economists 
+that  measure  of  respect  which  he  gives  to  other  groups  of  scientists  whose  theoretical 
+results are confirmed by observation when they are applied to the facts. 
+The  celebrated  optimism  of  traditional  economic  theory,  which  has  led  to  economists 
+being  looked  upon  as  Candides,  who,  having  left  this  world  for  the  cultivation  of  their 
+gardens, teach that all is for the best in the best of all possible worlds provided we will let 
+well alone, is also to be traced, I think, to their having neglected to take account of the 
+drag on prosperity which can be exercised by an insufficiency of effective demand. For 
+there  would  obviously  be  a  natural  tendency  towards  the  optimum  employment  of 
+resources in a society which was functioning after the manner of the classical postulates. 
+It may well be that the classical theory represents the way in which we should like our 
+economy  to  behave.  But  to  assume  that  it  actually  does  so  is  to  assume  our  difficulties 
+away. 
+1. A precise definition of user cost will be given in Chapter 6. 
+2. Not to be confused (vide infra) with the supply price of a unit of output in the ordinary sense of 
+this term. 
+
+3.  The  reader  will  observe  that  I  am  deducting  the  user  cost  both  from  the  proceeds  and  from  the 
+aggregate supply price of a given volume of output, so that both these terms are to be interpreted 
+net of user cost; whereas the aggregate sums paid by the purchasers are, of course, gross of user 
+cost. The reasons why this is convenient will be given in Chapter 6. The essential point is that the 
+aggregate  proceeds  and  aggregate  supply  price  net  of  user  cost  can  be  defined  uniquely  and 
+unambiguously; whereas, since user cost is obviously dependent both on the degree of integration 
+of  industry  and  on  the  extent  to  which  entrepreneurs  buy  from  one  another,  there  can  be  no 
+definition of the aggregate sums paid by purchasers, inclusive of user cost, which is independent of 
+these factors. There is a similar difficulty even in defining supply price in the ordinary sense for an 
+individual  producer;  and  in  the  case  of  the  aggregate  supply  price  of  output  as  a  whole  serious 
+difficulties  of  duplication  are  involved,  which  have  not  always  been  faced.  If  the  term  is  to  be 
+interpreted gross of user cost, they can only be overcome by making special assumptions relating 
+to  the  integration  of  entrepreneurs  in  groups  according  as  they  produce  consumption-goods  or 
+capital-goods which are obscure and complicated in themselves and do not correspond to the facts. 
+If, however, aggregate supply price is defined as above net of user cost, the difficulties do not arise. 
+The reader is advised, however, to await the fuller discussion in Chapter 6 and its appendix. 
+4. An entrepreneur, who has to reach a practical decision as to his scale of production, does not, of 
+course, entertain a single undoubting expectation of what the sale-proceeds of a given output will 
+be, but several hypothetical expectations held with varying degrees of probability and definiteness. 
+By  his  expectation  of  proceeds  I  mean,  therefore,  that  expectation  of  proceeds  which,  if  it  were 
+held  with  certainty,  would  lead  to  the  same  behaviour  as  does  the  bundle  of  vague  and  more 
+various possibilities which actually makes up his state of expectation when he reaches his decision. 
+5. In Chapter 20 a function closely related to the above will be called the employment function. 
+6. Defined in Chapter 10, below. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+Chapter 4 
+THE CHOICE OF UNITS 
+I 
+In  this  and  the  next  three  chapters  we  shall  be  occupied  with  an  attempt  to  clear  up 
+certain perplexities which have no peculiar or exclusive relevance to the problems which 
+it is our special purpose to examine. Thus these chapters are in the nature of a digression, 
+which will prevent us for a time from pursuing our main theme. Their subject-matter is 
+only discussed here because it does not happen to have been already treated elsewhere in 
+a way which I find adequate to the needs of my own particular enquiry. 
+The  three  perplexities  which  most  impeded  my  progress  in  writing  this  book,  so  that  I 
+could  not  express  myself  conveniently  until  I  had  found  some  solution  for  them,  are: 
+firstly,  the  choice  of  the  units  of  quantity  appropriate  to  the  problems  of  the  economic 
+system as a whole; secondly, the part played by expectation in economic analysis; and, 
+thirdly, the definition of income. 
+II 
+That the units, in terms of which economists commonly work, are unsatisfactory can be 
+illustrated  by  the  concepts  of  the  national  dividend,  the  stock  of  real  capital  and  the 
+general price-level: 
+(i)  The  national  dividend,  as  defined  by  Marshall  and  Professor  Pigou[1],  measures  the 
+volume of current output or real income and not the value of output or money-income[2]. 
+Furthermore, it depends, in some sense, on net output;—on the net addition, that is to say, 
+to  the  resources  of  the  community  available for  consumption  or  for  retention  as  capital 
+stock, due to the economic activities and sacrifices of the current period, after allowing 
+for the wastage of the stock of real capital existing at the commencement of the period. 
+On this basis an attempt is made to erect a quantitative science. But it is a grave objection 
+to this definition for such a purpose that the community's output of goods and services is 
+a  non-homogeneous  complex  which  cannot  be  measured,  strictly  speaking,  except  in 
+certain special cases, as for example when all the items of one output are included in the 
+same proportions in another output. 
+(ii) The difficulty is even greater when, in order to calculate net output, we try to measure 
+the net addition  to capital  equipment; for we have  to  find  some  basis  for  a  quantitative 
+comparison between the new items of equipment produced during the period and the old 
+items  which  have  perished  by  wastage.  In  order  to  arrive  at  the  net  national  dividend, 
+Professor Pigou[3] deducts such obsolescence, etc., 'as may fairly be called "normal"; and 
+the practical test of normality is that the depletion is sufficiently regular to be foreseen, if 
+not in detail, at least in the large'. But, since this deduction is not a deduction in terms of 
+
+money,  he  is  involved  in  assuming  that  there  can  be  a  change  in  physical  quantity, 
+although  there  has  been  no  physical  change;  i.e.  he  is  covertly  introducing  changes  in 
+value. 
+Moreover,  he  is  unable  to  devise  any  satisfactory  formula[4]  to  evaluate  new  equipment 
+against old when, owing to changes in technique, the two are not identical. I believe that 
+the concept at which Professor Pigou is aiming is the right and appropriate concept for 
+economic analysis. But, until a satisfactory system of units has been adopted, its precise 
+definition is an impossible task. The problem of comparing one real output with another 
+and  of  then  calculating  net  output  by  setting  off  new  items  of  equipment  against  the 
+wastage of old items presents conundrums which permit, one can confidently say, of no 
+solution. 
+(iii)  Thirdly,  the  well-known,  but  unavoidable,  element  of  vagueness  which  admittedly 
+attends the concept of the general price-level makes this term very unsatisfactory for the 
+purposes of a causal analysis, which ought to be exact. 
+Nevertheless  these  difficulties  are  rightly  regarded  as  'conundrums'.  They  are  'purely 
+theoretical' in the sense that they never perplex, or indeed enter in any way into, business 
+decisions  and  have  no  relevance  to  the  causal  sequence  of  economic  events,  which  are 
+clear-cut and determinate in spite of the quantitative indeterminacy of these concepts. It is 
+natural,  therefore,  to  conclude  that  they  not  only  lack  precision  but  are  unnecessary. 
+Obviously  our  quantitative  analysis  must  be  expressed  without  using  any  quantitatively 
+vague expressions. And, indeed, as soon as one makes the attempt, it becomes clear, as I 
+hope to show, that one can get on much better without them. 
+The  fact  that  two  incommensurable  collections  of  miscellaneous  objects  cannot  in 
+themselves provide the material for a quantitative analysis need not, of course, prevent us 
+from making approximate statistical comparisons, depending on some broad element of 
+judgment  rather  than  of  strict  calculation,  which  may  possess  significance  and  validity 
+within certain limits. 
+But the proper place for such things as net real output and the general level of prices lies 
+within  the  field  of  historical  and  statistical  description,  and  their  purpose  should  be  to 
+satisfy historical or social curiosity, a purpose for which perfect precision—such as our 
+causal  analysis  requires,  whether  or  not  our  knowledge  of  the  actual  values  of  the 
+relevant quantities is complete or exact—is neither usual nor necessary. To say that net 
+output to-day is greater, but the price-level lower, than ten years ago or one year ago, is a 
+proposition of a similar character to the statement that Queen Victoria was a better queen 
+but not a happier woman than Queen Elizabeth—a proposition not without meaning and 
+not without interest, but unsuitable as material for the differential calculus. Our precision 
+will be a mock precision if we try to use such partly vague and non-quantitative concepts 
+as the basis of a quantitative analysis. 
+ 
+
+III 
+On  every  particular  occasion,  let  it  be  remembered,  an  entrepreneur  is  concerned  with 
+decisions as to the scale on which to work a given capital equipment; and when we say 
+that  the  expectation  of  an  increased  demand,  i.e.  a  raising  of  the  aggregate  demand 
+function,  will  lead  to  an  increase  in  aggregate  output,  we  really  mean  that  the  firms, 
+which own the capital equipment, will be induced to associate with it a greater aggregate 
+employment  of  labour.  In  the  case  of  an  individual  firm  or  industry  producing  a 
+homogeneous product we can speak legitimately, if we wish, of increases or decreases of 
+output.  But  when  we  are  aggregating  the  activities  of  all  firms,  we  cannot  speak 
+accurately except in terms of quantities of employment applied to a given equipment. The 
+concepts of output as a whole and its price-level are not required in this context, since we 
+have no need of an absolute measure of current aggregate output, such as would enable us 
+to  compare  its  amount  with  the  amount  which  would  result  from  the  association  of  a 
+different capital equipment with a different quantity of employment. When, for purposes 
+of description or rough comparison, we wish to speak of an increase of output, we must 
+rely on the general presumption that the amount of employment associated with a given 
+capital equipment will be a satisfactory index of the amount of resultant output;—the two 
+being  presumed  to  increase  and  decrease  together,  though  not  in  a  definite  numerical 
+proportion. 
+In dealing with the theory of employment I propose, therefore, to make use of only two 
+fundamental  units  of  quantity,  namely,  quantities  of  money-value  and  quantities  of 
+employment. The first of these is strictly homogeneous, and the second can be made so. 
+For, in so far as different grades and kinds of labour and salaried assistance enjoy a more 
+or  less  fixed  relative  remuneration,  the  quantity  of  employment  can  be  sufficiently 
+defined  for  our  purpose  by  taking  an  hour's  employment  of  ordinary  labour  as  our  unit 
+and weighting an hour's employment of special labour in proportion to its remuneration; 
+i.e. an hour of special labour remunerated at double ordinary rates will count as two units. 
+We shall call the unit in which the quantity of employment is measured the labour-unit; 
+and  the  money-wage  of  a  labour-unit  we  shall  call  the  wage-unit[5].  Thus,  if  E  is  the 
+wages  (and  salaries)  bill,  W  the  wage-unit,  and  N  the  quantity  of  employment, 
+E  =  N × W. 
+This assumption of homogeneity in the supply of labour is not upset by the obvious fact 
+of great differences in the specialised skill of individual workers and in their suitability 
+for different occupations. For, if the remuneration of the workers is proportional to their 
+efficiency,  the  differences  are  dealt  with  by  our  having  regarded  individuals  as 
+contributing  to  the  supply  of  labour  in  proportion  to  their  remuneration;  whilst  if,  as 
+output increases, a given firm has to bring in labour which is less and less efficient for its 
+special purposes per wage-unit paid to it, this is merely one factor among others leading 
+to a diminishing return from the capital equipment in terms of output as more labour is 
+employed on it. We subsume, so to speak, the non-homogeneity of equally remunerated 
+labour  units  in  the  equipment,  which  we  regard  as  less  and  less  adapted  to  employ  the 
+available labour units as output increases, instead of regarding the available labour units 
+as  less  and  less  adapted  to  use  a  homogeneous  capital  equipment.  Thus  if  there  is  no 
+
+surplus  of  specialised  or  practised  labour  and  the  use  of  less  suitable  labour  involves  a 
+higher labour cost per unit of output, this means that the rate at which the return from the 
+equipment  diminishes  as  employment  increases  is  more  rapid  than  it  would  be  if  there 
+were  such  a  surplus[6].  Even  in  the  limiting  case  where  different  labour  units  were  so 
+highly specialised as to be altogether incapable of being substituted for one another, there 
+is no awkwardness; for this merely means that the elasticity of supply of output from a 
+particular type of capital equipment falls suddenly to zero when all the available labour 
+specialised to its use is already employed[7]. Thus our assumption of a homogeneous unit 
+of  labour  involves  no  difficulties  unless  there  is  great  instability  in  the  relative 
+remuneration  of  different  labour-units;  and  even  this  difficulty  can  be  dealt  with,  if  it 
+arises, by supposing a rapid liability to change in the supply of labour and the shape of 
+the aggregate supply function. 
+It  is  my  belief  that  much  unnecessary  perplexity  can  be  avoided  if  we  limit  ourselves 
+strictly to the two units, money and labour, when we are dealing with the behaviour of the 
+economic  system  as  a  whole;  reserving  the  use  of  units  of  particular  outputs  and 
+equipments  to  the  occasions  when  we  are  analysing  the  output  of  individual  firms  or 
+industries in isolation; and the use of vague concepts, such as the quantity of output as a 
+whole, the quantity of capital equipment as a whole and the general level of prices, to the 
+occasions  when  we  are  attempting  some  historical  comparison  which  is  within  certain 
+(perhaps fairly wide) limits avowedly imprecise and approximate. 
+It follows that we shall measure changes in current output by reference to the number of 
+hours  of  labour  paid  for  (whether  to  satisfy  consumers  or  to  produce  fresh  capital 
+equipment) on the existing capital equipment, hours of skilled labour being weighted in 
+proportion to their remuneration. We have no need of a quantitative comparison between 
+this output and the output which would result from associating a different set of workers 
+with  a  different  capital  equipment.  To  predict  how  entrepreneurs  possessing  a  given 
+equipment will respond to a shift in the aggregate demand function it is not necessary to 
+know how the quantity of the resulting output, the standard of life and the general level of 
+prices would compare with what they were at a different date or in another country. 
+IV 
+It is easily shown that the conditions of supply, such as are usually expressed in terms of 
+the supply curve, and the elasticity of supply relating output to price, can be handled in 
+terms  of  our  two  chosen  units  by  means  of  the  aggregate  supply  function,  without 
+reference  to  quantities  of  output,  whether  we  are  concerned  with  a  particular  firm  or 
+industry  or  with  economic  activity  as  a  whole.  For  the  aggregate  supply  function  for  a 
+given firm (and similarly for a given industry or for industry as a whole) is given by 
+Zr  =  φ r(Nr), 
+where Zr is the proceeds (net of user cost) the expectation of which will induce a level of 
+employment Nr. If, therefore, the relation between employment and output is such that an 
+employment Nr results in an output Or, where Or  =  ψ r(Nr), it follows that 
+
+        Zr + Ur(Nr)                 φr(Nr) + Ur(Nr) 
+p  =  ———————  =   ————————— 
+       Or                               ψr(Nr) 
+is the ordinary supply curve, where Ur(Nr) is the (expected) user cost corresponding to a 
+level of employment Nr. 
+Thus in the case of each homogeneous commodity, for which Or  =  ψ r(Nr) has a definite 
+meaning,  we  can  evaluate  Zr  =  φ r(Nr)  in  the  ordinary  way;  but  we  can  then  aggregate 
+the  Nr's  in  a  way  in  which  we  cannot  aggregate  the  Or's,  since  ΣOr  is  not  a  numerical 
+quantity.  Moreover,  if  we  can  assume  that,  in  a  given  environment,  a  given  aggregate 
+employment will be distributed in a unique way between different industries, so that Nr is 
+a function of N, further simplifications are possible. 
+1. Vide Pigou, Economics of Welfare, passim, and particularly Part I. chap. iii. 
+2.  Though,  as  a  convenient  compromise,  the  real  income,  which  is  taken  to  constitute  the  National 
+Dividend, is usually limited to those goods and services which can be bought for money. 
+3.  Economics  of  Welfare,  Part  I.  chap.  v.,  on  “What  is  meant  by  maintaining  Capital  intact”;  as 
+amended by a recent article in the Economic Journal, June 1935, p. 225. 
+4. Cf. Prof. Hayek’s criticisms, Economica, Aug. 1935, p. 247. 
+5. If X stands for any quantity measured in terms of money, it will often be convenient to write Xw 
+for the same quantity measured in terms of the wage-unit. 
+6. This is the main reason why the supply price of output rises with increasing demand even when 
+there is still a surplus of equipment identical in type with the equipment in use. If we suppose that 
+the surplus supply of labour forms a pool equally available to all entrepreneurs and that labour 
+employed for a given purpose is rewarded, in part at least, per unit of effort and not with strict 
+regard  to  its  efficiency  in  its  actual  particular  employment  (which  is  in  most  cases  the  realistic 
+assumption to make), the diminishing efficiency of the labour employed is an outstanding example 
+of rising supply price with increasing output, not due to internal diseconomies. 
+7. How the supply curve in ordinary use is supposed to deal with the above difficulty I cannot say, 
+since  those  who  use  this  curve  have  not  made  their  assumptions  very  clear.  Probably  they  are 
+assuming  that  labour  employed  for  a  given  purpose  is  always  rewarded  with  strict  regard  to  its 
+efficiency  for  that  purpose.  But  this  is  unrealistic.  Perhaps  the  essential  reason  for  treating  the 
+varying  efficiency  of  labour  as  though  it  belonged  to  the  equipment  lies  in  the  fact  that  the 
+increasing surpluses, which emerge as output is increased, accrue in practice mainly to the owners 
+of  the  equipment  and  not  to  the  more  efficient  workers  (though  these  may  get  an  advantage 
+through being employed more regularly and by receiving earlier promotion); that is to say, men of 
+differing efficiency working at the same job are seldom paid at rates closely proportional to their 
+efficiencies. Where, however, increased pay for higher efficiency occurs, and in so far as it occurs, 
+my  method  takes  account  of  it;  since  in  calculating  the  number  of  labour  units  employed,  the 
+individual  workers  are  weighted  in  proportion  to  their  remuneration.  On  my  assumptions 
+interesting complications obviously arise where we are dealing with particular supply curves since 
+their  shape  will  depend  on  the  demand  for  suitable  labour  in  other  directions.  To  ignore  these 
+complications  would, as  I  have  said,  be  unrealistic.  But  we  need  not consider  them  when  we are 
+dealing with employment as a whole, provided we assume that a given volume of effective demand 
+has a particular distribution of this demand between different products uniquely associated with it. 
+
+It  may  be,  however,  that  this  would  not  hold  good  irrespective  of  the  particular  cause  of  the 
+change in demand. E.g. an increase in effective demand due to an increased propensity to consume 
+might  find  itself  faced  by  a  different  aggregate  supply  function  from  that  which  would  face  an 
+equal increase in demand due to an increased inducement to invest. All this, however, belongs to 
+the  detailed  analysis  of  the  general  ideas  here  set  forth,  which  it  is  no  part  of  my  immediate 
+purpose to pursue. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+Chapter 5 
+EXPECTATION AS DETERMINING OUTPUT AND EMPLOYMENT 
+I 
+All  production  is  for  the  purpose  of  ultimately  satisfying  a  consumer.  Time  usually 
+elapses,  however—and  sometimes  much  time—between  the  incurring  of  costs  by  the 
+producer  (with  the  consumer  in  view)  and  the  purchase  of  the  output  by  the  ultimate 
+consumer. Meanwhile the entrepreneur (including both the producer and the investor in 
+this description) has to form the best expectations he can as to what the consumers will be 
+prepared to pay when he is ready to supply them (directly or indirectly) after the elapse of 
+what  may  be  a  lengthy  period;  and  he  has  no  choice  but  to  be  guided  by  these 
+expectations[1], if he is to produce at all by processes which occupy time. 
+These expectations, upon which business decisions depend, fall into two groups, certain 
+individuals  or  firms  being  specialised  in  the  business  of  framing  the  first  type  of 
+expectation and others in the business of framing the second. The first type is concerned 
+with the price which a manufacturer can expect to get for his 'finished' output at the time 
+when  he  commits  himself  to  starting  the  process  which  will  produce  it;  output  being 
+'finished' (from the point of view of the manufacturer) when it is ready to be used or to be 
+sold to a second party. The second type is concerned with what the entrepreneur can hope 
+to earn in the shape of future returns if he purchases (or, perhaps, manufactures) 'finished' 
+output  as  an  addition  to  his  capital  equipment.  We  may  call  the  former  short-term 
+expectation and the latter long-term expectation. 
+Thus  the  behaviour  of  each  individual  firm  in  deciding  its  daily[2]  output  will  be 
+determined  by  its  short-term  expectations—expectations  as  to  the  cost  of  output  on 
+various possible scales and expectations as to the sale-proceeds of this output; though, in 
+the case of additions to capital equipment and even of sales to distributors, these short-
+term expectations will largely depend on the long-term (or medium-term) expectations of 
+other parties. It is upon these various expectations that the amount of employment which 
+the  firms  offer  will  depend.  The  actually  realised  results  of  the  production  and  sale  of 
+output  will  only  be  relevant  to  employment  in  so  far  as  they  cause  a  modification  of 
+subsequent  expectations.  Nor,  on  the  other  hand,  are  the  original  expectations  relevant, 
+which led the firm to acquire the capital equipment and the stock of intermediate products 
+and half-finished materials with which it finds itself at the time when it has to decide the 
+next day's output. Thus, on each and every occasion of such a decision, the decision will 
+be made, with reference indeed to this equipment and stock, but in the light of the current 
+expectations of prospective costs and sale-proceeds. 
+Now,  in  general,  a  change  in  expectations  (whether  short-term  or  long-term)  will  only 
+produce  its  full  effect  on  employment  over  a  considerable  period.  The  change  in 
+employment due to a change in expectations will not be the same on the second day after 
+
+the change as on the first, or the same on the third day as on the second, and so on, even 
+though there be no further change in expectations. In the case of short-term expectations 
+this  is  because  changes  in  expectation  are  not,  as  a  rule,  sufficiently  violent  or  rapid, 
+when  they  are  for  the  worse,  to  cause  the  abandonment  of  work  on  all  the  productive 
+processes which, in the light of the revised expectation, it was a mistake to have begun; 
+whilst, when they are for the better, some time for preparation must needs elapse before 
+employment can reach the level at which it would have stood if the state of expectation 
+had been revised sooner. In the case of long-term expectations, equipment which will not 
+be replaced will continue to give employment until it is worn out; whilst when the change 
+in long-term expectations is for the better, employment may be at a higher level at first, 
+than it will be after there has been time to adjust the equipment to the new situation. 
+If  we  suppose  a  state  of  expectation  to  continue  for  a  sufficient  length  of  time  for  the 
+effect  on  employment  to  have  worked  itself  out  so  completely  that  there  is,  broadly 
+speaking, no piece of employment going on which would not have taken place if the new 
+state  of  expectation  had  always  existed,  the  steady  level  of  employment[3]  thus  attained 
+may be called the long-period employment corresponding to that state of expectation. It 
+follows  that,  although  expectation  may  change  so  frequently  that  the  actual  level  of 
+employment  has  never  had  time  to  reach  the  long-period  employment  corresponding  to 
+the  existing  state  of  expectation,  nevertheless  every  state  of  expectation  has  its  definite 
+corresponding level of long-period employment. 
+Let  us  consider,  first  of  all,  the  process  of  transition  to  a  long-period  position  due  to  a 
+change  in  expectation,  which  is  not  confused  or  interrupted  by  any  further  change  in 
+expectation.  We  will  first  suppose  that  the  change  is  of  such  a  character  that  the  new 
+long-period employment will be greater than the old. Now, as a rule, it will only be the 
+rate of input which will be much affected at the beginning, that is to say, the volume of 
+work  on  the  earlier  stages  of  new  processes  of  production,  whilst  the  output  of 
+consumption-goods and the amount of employment on the later stages of processes which 
+were  started  before  the  change  will  remain  much  the  same  as  before.  In  so  far  as  there 
+were stocks of partly finished goods, this conclusion may be modified; though it is likely 
+to remain true that the initial increase in employment will be modest. As, however, the 
+days  pass  by,  employment  will  gradually  increase.  Moreover,  it  is  easy  to  conceive  of 
+conditions  which  will  cause  it  to  increase  at  some  stage  to  a  higher  level  than  the  new 
+long-period employment. For the process of building up capital to satisfy the new state of 
+expectation  may  lead  to  more  employment  and  also  to  more  current  consumption  than 
+will  occur  when  the  long-period  position  has  been  reached.  Thus  the  change  in 
+expectation may lead to a gradual crescendo in the level of employment, rising to a peak 
+and then declining to the new  long-period  level.  The same  thing  may  occur  even  if  the 
+new  long-period  level  is  the  same  as  the  old,  if  the  change  represents  a  change  in  the 
+direction  of  consumption  which  renders  certain  existing  processes  and  their  equipment 
+obsolete. Or again, if the new long-period employment is less than the old, the level of 
+employment  during  the  transition  may  fall  for  a  time  below  what  the  new  long-period 
+level  is  going  to  be.  Thus  a  mere  change  in  expectation  is  capable  of  producing  an 
+oscillation of the same kind of shape as a cyclical movement, in the course of working 
+itself out. It was movements of this kind which I discussed in my Treatise on Money in 
+
+connection with the building up or the depletion of stocks of working and liquid capital 
+consequent on change. 
+An uninterrupted process of transition, such as the above, to a new long-period position 
+can  be  complicated  in  detail.  But  the  actual  course  of  events  is  more  complicated  still. 
+For  the  state  of  expectation  is  liable  to  constant  change,  a  new  expectation  being 
+superimposed  long  before  the  previous  change  has  fully  worked  itself  out;  so  that  the 
+economic machine is occupied at any given time with a number of overlapping activities, 
+the existence of which is due to various past states of expectation. 
+II 
+This leads us to the relevance of this discussion for our present purpose. It is evident from 
+the above that the level of employment at any time depends, in a sense, not merely on the 
+existing  state  of  expectation  but  on  the  states  of  expectation  which  have  existed  over  a 
+certain  past  period.  Nevertheless  past  expectations,  which  have  not  yet  worked 
+themselves out, are embodied in the to-day's capital equipment with reference to which 
+the entrepreneur has to make to-day's decisions, and only influence his decisions in so far 
+as  they  are  so  embodied.  It  follows,  therefore,  that,  in  spite  of  the  above,  to-day's 
+employment can be correctly described as being governed by to-day's expectations taken 
+in conjunction with to-day's capital equipment. 
+Express  reference  to  current  long-term  expectations  can  seldom  be  avoided.  But  it  will 
+often be safe to omit express reference to short-term expectation, in view of the fact that 
+in practice the process of revision of short-term expectation is a gradual and continuous 
+one, carried on largely in the light of realised results; so that expected and realised results 
+run into and overlap one another in their influence. For, although output and employment 
+are determined by the producer's short-term expectations and not by past results, the most 
+recent results usually play a predominant part in determining what these expectations are. 
+It would be too complicated to work out the expectations de novo whenever a productive 
+process was being started; and it would, moreover, be a waste of time since a large part of 
+the  circumstances  usually  continue  substantially  unchanged  from  one  day  to  the  next. 
+Accordingly it is sensible for producers to base their expectations on the assumption that 
+the  most  recently  realised  results  will  continue,  except  in  so  far  as  there  are  definite 
+reasons  for  expecting  a  change.  Thus  in  practice  there  is  a  large  overlap  between  the 
+effects  on  employment  of  the  realised  sale-proceeds  of  recent  output  and  those  of  the 
+sale-proceeds  expected  from  current  input;  and  producers'  forecasts  are  more  often 
+gradually modified in the light of results than in anticipation of prospective changes[4]. 
+Nevertheless, we must not forget that, in the case of durable goods, the producer's short-
+term expectations are based on the current long-term expectations of the investor; and it 
+is of the nature of long-term expectations that they cannot be checked at short intervals in 
+the  light  of  realised  results.  Moreover,  as  we  shall  see  in  chapter  12,  where  we  shall 
+consider long-term expectations in more detail, they are liable to sudden revision. Thus 
+the factor of current long-term expectations cannot be even approximately eliminated or 
+replaced by realised results. 
+
+1.  For  the  method  of  arriving  at  an  equivalent  of  these  expectations  in  terms  of  sale-proceeds  see 
+footnote (3) to p. 24 above. 
+2. Daily here stands for the shortest interval after which the firm is free to revise its decision as to 
+how much employment to offer. It is, so to speak, the minimum effective unit of economic time. 
+3.  It  is  not  necessary  that  the  level  of  long-period  employment  should  be  constant,  i.e.  long-period 
+conditions are not necessarily static. For example, a steady increase in wealth or population may 
+constitute  a  part  of  the  unchanging  expectation.  The  only  condition  is  that  the  existing 
+expectations should have been foreseen sufficiently far ahead. 
+4. This emphasis on the expectation entertained when the decision to produce is taken, meets, I think, 
+Mr.  Hawtrey’s  point  that  input  and  accumulation  of  stocks  before  prices  have  fallen  or 
+disappointment in respect of output is reflected in a realised loss relatively to expectation. For the 
+accumulation of unsold stocks (or decline of forward orders) is precisely the kind of event which is 
+most  likely  to  cause  input  to  differ  from  what  mere  statistics  of  the  sale-proceeds  of  previous 
+output would indicate if they were to be projected without criticism into the next period. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+Chapter 6 
+THE DEFINITION OF INCOME, SAVING AND INVESTMENT 
+I. Income 
+During any period of time an entrepreneur will have sold finished output to consumers or 
+to other entrepreneurs for a certain sum which we will designate as A. He will also have 
+spent  a  certain  sum,  designated  by  A1,  on  purchasing  finished  output  from  other 
+entrepreneurs. And he will end up with a capital equipment, which term includes both his 
+stocks of unfinished goods or working capital and his stocks of finished goods, having a 
+value G. 
+Some part, however, of A + G − A1 will be attributable, not to the activities of the period 
+in question, but to the capital equipment which he had at the beginning of the period. We 
+must, therefore, in order to arrive at what we mean by the income of the current period, 
+deduct from A + G − A1 a certain sum, to represent that part of its value which has been 
+(in  some  sense)  contributed  by  the  equipment  inherited  from  the  previous  period.  The 
+problem of defining income is solved as soon as we have found a satisfactory method for 
+calculating this deduction. 
+There  are  two  possible  principles  for  calculating  it,  each  of  which  has  a  certain 
+significance;—one  of  them  in  connection  with  production,  and  the  other  in  connection 
+with consumption. Let us consider them in turn. 
+(i) The actual value G of the capital equipment at the end of the period is the net result of 
+the entrepreneur, on the one hand, having maintained and improved it during the period, 
+both by purchases from other entrepreneurs and by work done upon it by himself, and, on 
+the other hand, having exhausted or depreciated it through using it to produce output. If 
+he had decided not to use it to produce output, there is, nevertheless, a certain optimum 
+sum  which  it  would  have  paid  him  to  spend  on  maintaining  and  improving  it.  Let  us 
+suppose that, in this event, he would have spent B' on its maintenance and improvement, 
+and that, having had this spent on it, it would have been worth G' at the end of the period. 
+That is to say, G' − B' is the maximum net value which might have been conserved from 
+the  previous  period,  if  it  had  not  been  used  to  produce  A.  The  excess  of  this  potential 
+value of the equipment over G − A1 is the measure of what has been sacrificed (one way 
+or another) to produce A. Let us call this quantity, namely 
+(G' − B') − (G −  A1), 
+which measures the sacrifice of value involved in the production of A, the user cost of A. 
+User  cost  will  be  written  U[1].  The  amount  paid  out  by  the  entrepreneur  to  the  other 
+factors of production in return for their services, which from their point of view is their 
+
+income, we will call the factor cost of A. The sum of the factor cost F and the user cost U 
+we shall call the prime cost of the output A. 
+We can then define the income[2] of the entrepreneur as being the excess of the value of 
+his finished output sold during the period over his prime cost. The entrepreneur's income, 
+that is to say, is taken as being equal to the quantity, depending on his scale of production, 
+which  he  endeavours  to  maximise,  i.e.  to  his  gross  profit  in  the  ordinary  sense  of  this 
+term;—which  agrees  with  common  sense.  Hence,  since  the  income  of  the  rest  of  the 
+community is equal to the entrepreneur's factor cost, aggregate income is equal to A − U. 
+Income,  thus  defined,  is  a  completely  unambiguous  quantity.  Moreover,  since  it  is  the 
+entrepreneur's  expectation  of  the  excess  of  this  quantity  over  his  outgoings  to  the  other 
+factors  of  production  which  he  endeavours  to  maximise  when  he  decides  how  much 
+employment to give to the other factors of production, it is the quantity which is causally 
+significant for employment. 
+It  is  conceivable,  of  course,  that  G − A1  may  exceed  G' − B',  so  that  user  cost  will  be 
+negative.  For  example,  this  may  well  be  the case  if  we  happen  to  choose  our  period  in 
+such a way that input has been increasing during the period but without there having been 
+time for the increased output to reach the stage of being finished and sold. It will also be 
+the  case,  whenever  there  is  positive  investment,  if  we  imagine  industry  to  be  so  much 
+integrated  that  entrepreneurs  make  most  of  their  equipment  for  themselves.  Since, 
+however, user cost is only negative when the entrepreneur has been increasing his capital 
+equipment by his own labour, we can, in an economy where capital equipment is largely 
+manufactured by different firms from those which use it, normally think of user cost as 
+being  positive.  Moreover,  it  is  difficult  to  conceive  of  a  case  where  marginal  user  cost 
+associated with an increase in A, i.e. dU/dA, will be other than positive. 
+It may be convenient to mention here, in anticipation of the latter part of this chapter, that, 
+for  the  community  as  a  whole,  the  aggregate  consumption  (C)  of  the  period  is  equal  to 
+Σ(A − A1),  and  the  aggregate  investment  (I)  is  equal  to  Σ(A1 − U).  Moreover,  U  is  the 
+individual  entrepreneur's  disinvestment  (and  − U  his  investment)  in  respect  of  his  own 
+equipment  exclusive  of  what  he  buys  from  other  entrepreneurs.  Thus  in  a  completely 
+integrated system (where A1  =  0) consumption is equal to A and investment to − U, i.e. 
+to G − (G' − B'). The slight complication of the above, through the introduction of A1, is 
+simply  due  to  the  desirability  of  providing  in  a  generalised  way  for  the  case  of  a  non-
+integrated system of production. 
+Furthermore,  the  effective  demand  is  simply  the  aggregate  income  (or  proceeds)  which 
+the entrepreneurs expect to receive, inclusive of the incomes which they will hand on to 
+the  other  factors  of  production,  from  the  amount  of  current  employment  which  they 
+decide to give. The aggregate demand function relates various hypothetical quantities of 
+employment to the proceeds which their outputs are expected to yield; and the effective 
+demand is the point on the aggregate demand function which becomes effective because, 
+taken  in  conjunction  with  the  conditions  of  supply,  it  corresponds  to  the  level  of 
+employment which maximises the entrepreneur's expectation of profit. 
+
+This set of definitions also has the advantage that we can equate the marginal proceeds 
+(or income) to the marginal factor cost; and thus arrive at the same sort of propositions 
+relating  marginal proceeds  thus defined to marginal factor  costs  as  have been stated  by 
+those  economists  who,  by  ignoring  user  cost  or  assuming  it  to  be  zero,  have  equated 
+supply price[3] to marginal factor cost[4]. 
+(ii) We turn, next, to the second of the principles referred to above. We have dealt so far 
+with that part of the change in the value of the capital equipment at the end of the period 
+as compared with its value at the beginning which is due to the voluntary decisions of the 
+entrepreneur  in  seeking  to  maximise  his  profit.  But  there  may,  in  addition,  be  an 
+involuntary  loss  (or  gain)  in  the  value  of  his  capital  equipment,  occurring  for  reasons 
+beyond his control and irrespective of his current decisions, on account of (e.g.) a change 
+in market values, wastage by obsolescence or the mere passage of time, or destruction by 
+catastrophe such as war or earthquake. Now some part of these involuntary losses, whilst 
+they are unavoidable, are—broadly speaking—not unexpected; such as losses through the 
+lapse  of  time  irrespective  of  use,  and  also  'normal'  obsolescence  which,  as  Professor 
+Pigou  expresses  it,  'is  sufficiently  regular  to  be  foreseen,  if  not  in  detail,  at  least  in  the 
+large',  including,  we  may  add,  those  losses  to  the  community  as  a  whole  which  are 
+sufficiently  regular  to  be  commonly  regarded  as  'insurable  risks'.  Let  us  ignore  for  the 
+moment the fact that the amount of the expected loss depends on when the expectation is 
+assumed  to  be  framed,  and  let  us  call  the  depreciation  of  the  equipment,  which  is 
+involuntary but not unexpected, i.e. the excess of the expected depreciation over the user 
+cost, the supplementary cost, which will be written V. It is, perhaps, hardly necessary to 
+point  out  that  this  definition  is  not  the  same  as  Marshall's  definition  of  supplementary 
+cost,  though  the  underlying  idea,  namely,  of  dealing  with  that  part  of  the  expected 
+depreciation which does not enter into prime cost, is similar. 
+In reckoning, therefore, the net income and the net profit of the entrepreneur it is usual to 
+deduct the estimated amount of the supplementary cost from his income and gross profit 
+as  defined  above.  For  the  psychological  effect  on  the  entrepreneur,  when  he  is 
+considering what he is free to spend and to save, of the supplementary cost is virtually the 
+same  as  though  it  came  off  his  gross  profit.  In  his  capacity  as  a  producer  deciding 
+whether or not to use the equipment, prime cost and gross profit, as defined above, are 
+the  significant  concepts.  But  in  his  capacity  as  a  consumer  the  amount  of  the 
+supplementary cost works on his mind in the same way as if it were a part of the prime 
+cost.  Hence  we  shall  not  only  come  nearest  to  common  usage  but  will  also  arrive  at  a 
+concept  which  is  relevant  to  the  amount  of  consumption,  if,  in  defining  aggregate  net 
+income, we deduct the supplementary cost as well as the user cost, so that aggregate net 
+income is equal to A − U − V. 
+There  remains  the  change  in  the  value  of  the  equipment,  due  to  unforeseen  changes  in 
+market  values,  exceptional  obsolescence  or  destruction  by  catastrophe,  which  is  both 
+involuntary and—in a broad sense—unforeseen.  The  actual  loss under this head, which 
+we disregard even in reckoning net income and charge to capital account, may be called 
+the windfall loss. 
+
+The  causal  significance  of  net  income  lies  in  the  psychological  influence  of  the 
+magnitude  of  V  on  the  amount  of  current  consumption,  since  net  income  is  what  we 
+suppose the ordinary man to reckon his available income to be when he is deciding how 
+much to spend on current consumption. This is not, of course, the only factor of which he 
+takes account when he is deciding how much to spend. It makes a considerable difference, 
+for example, how much windfall gain or loss he is making on capital account. But there is 
+a  difference  between  the  supplementary  cost  and  a  windfall  loss  in  that  changes  in  the 
+former are apt to affect him in just the same way as changes in his gross profit. It is the 
+excess  of  the  proceeds  of  the  current  output  over  the  sum  of  the  prime  cost  and  the 
+supplementary  cost  which  is  relevant  to  the  entrepreneur's  consumption;  whereas, 
+although the windfall loss (or gain) enters into his decisions, it does not enter into them 
+on  the  same  scale—a  given  windfall  loss  does  not  have  the  same  effect  as  an  equal 
+supplementary cost. 
+We must now recur, however, to the point that the line between supplementary costs and 
+windfall losses, i.e. between those unavoidable losses which we think it proper to debit to 
+income account and those which it is reasonable to reckon as a windfall loss (or gain) on 
+capital account, is partly a conventional or psychological one, depending on what are the 
+commonly  accepted  criteria  for  estimating  the  former.  For  no  unique  principle  can  be 
+established for the estimation of supplementary cost, and its amount will depend on our 
+choice of an accounting method. The expected value of the supplementary cost, when the 
+equipment  was  originally  produced,  is  a  definite  quantity.  But  if  it  is  re-estimated 
+subsequently,  its  amount  over  the  remainder  of  the  life  of  the  equipment  may  have 
+changed as a result of a change in the meantime in our expectations; the windfall capital 
+loss  being  the  discounted  value  of  the  difference  between  the  former  and  the  revised 
+expectation  of  the  prospective  series  of  U  +  V.  It  is  a  widely  approved  principle  of 
+business accounting, endorsed by the Inland Revenue authorities, to establish a figure for 
+the sum of the supplementary cost and the user cost when the equipment is acquired and 
+to  maintain  this  unaltered  during  the  life  of  the  equipment,  irrespective  of  subsequent 
+changes in expectation. In this case the supplementary cost over any period must be taken 
+as  the  excess  of  this  predetermined  figure  over  the  actual  user  cost.  This  has  the 
+advantage  of  ensuring  that  the  windfall  gain  or  loss  shall  be  zero  over  the  life  of  the 
+equipment  taken  as  a  whole.  But  it  is  also  reasonable  in  certain  circumstances  to 
+recalculate  the  allowance  for  supplementary  cost  on  the  basis  of  current  values  and 
+expectations at an arbitrary accounting interval, e.g. annually. Business men in fact differ 
+as  to  which  course  they  adopt.  It  may  be  convenient  to  call  the  initial  expectation  of 
+supplementary  cost  when  the  equipment  is  first  acquired  the  basic  supplementary  cost, 
+and  the  same  quantity  recalculated  up  to  date  on  the  basis  of  current  values  and 
+expectations the current supplementary cost. 
+Thus we cannot get closer to a quantitative definition of supplementary cost than that it 
+comprises those deductions from his income which a typical entrepreneur makes before 
+reckoning what he considers his net income for the purpose of declaring a dividend (in 
+the case of a corporation) or of deciding the scale of his current consumption (in the case 
+of an individual). Since windfall charges on capital account are not going to be ruled out 
+of the picture, it is clearly better, in case of doubt, to assign an item to capital account, 
+
+and to include in supplementary cost only what rather obviously belongs there. For any 
+overloading of the former can be corrected by allowing it more influence on the rate of 
+current consumption than it would otherwise have had. 
+It will be seen that our definition of net income comes very close to Marshall's definition 
+of  income,  when  he  decided  to  take  refuge  in  the  practices  of  the  Income  Tax 
+Commissioners  and—broadly  speaking  to  regard  as  income  whatever  they,  with  their 
+experience, choose to treat as such. For the fabric of their decisions can be regarded as 
+the result of the most careful and extensive investigation which is available, to interpret 
+what, in practice, it is usual to treat as net income. It also corresponds to the money value 
+of Professor Pigou's most recent definition of the national dividend[5]. 
+It  remains  true,  however,  that  net  income,  being  based  on  an  equivocal  criterion  which 
+different authorities might interpret differently, is not perfectly clear-cut. Professor Hayek, 
+for  example,  has  suggested  that  an  individual  owner  of  capital  goods  might  aim  at 
+keeping the income he derives  from his possessions constant,  so that he would not feel 
+himself free to spend his income on consumption until he had set aside sufficient to offset 
+any tendency of his investment-income to decline for whatever reason[6]. I doubt if such 
+an  individual  exists;  but,  obviously,  no  theoretical  objection  can  be  raised  against  this 
+deduction  as  providing  a  possible  psychological  criterion  of  net  income.  But  when 
+Professor  Hayek  infers  that  the  concepts  of  saving  and  investment  suffer  from  a 
+corresponding vagueness, he is only right if he means net saving and net investment. The 
+saving and the investment, which are relevant to the theory of employment, are clear of 
+this defect, and are capable of objective definition, as we have shown above. 
+Thus  it  is  a  mistake  to  put  all  the  emphasis  on  net  income,  which  is  only  relevant  to 
+decisions concerning consumption, and is, moreover, only separated  from various other 
+factors affecting consumption by a narrow line; and to overlook (as has been usual) the 
+concept of income proper, which is the concept relevant to decisions concerning current 
+production and is quite unambiguous. 
+The above definitions of income and of net income are intended to conform as closely as 
+possible  to  common  usage.  It  is  necessary,  therefore,  that  I  should  at  once  remind  the 
+reader that in my Treatise on Money I defined income in a special sense. The peculiarity 
+in  my  former  definition  related  to  that  part  of  aggregate  income  which  accrues  to  the 
+entrepreneurs, since I took neither the profit (whether gross or net) actually realised from 
+their  current  operations  nor  the  profit  which  they  expected  when  they  decided  to 
+undertake  their  current  operations,  but  in  some  sense  (not,  as  I  now  think,  sufficiently 
+defined  if  we  allow  for  the  possibility  of  changes  in  the  scale  of  output)  a  normal  or 
+equilibrium profit; with the result that on this definition saving exceeded investment by 
+the amount of the excess of normal profit over the actual profit. I am afraid that this use 
+of terms has caused considerable confusion, especially in the case of the correlative use 
+of  saving;  since  conclusions  (relating,  in  particular,  to  the  excess  of  saving  over 
+investment), which were only valid if the terms employed were interpreted in my special 
+sense, have been frequently adopted in popular discussion as though the terms were being 
+employed  in  their  more  familiar  sense.  For  this  reason,  and  also  because  I  no  longer 
+
+require  my  former  terms  to  express  my  ideas  accurately,  I  have  decided  to  discard 
+them—with much regret for the confusion which they have caused. 
+II. Saving and Investment 
+Amidst the welter of divergent usages of terms, it is agreeable to discover one fixed point. 
+So  far  as  I  know,  everyone  is  agreed  that  saving  means  the  excess  of  income  over 
+expenditure  on  consumption.  Thus  any  doubts  about  the  meaning  of  saving  must  arise 
+from  doubts  about  the  meaning  either  of  income  or  of  consumption.  Income  we  have 
+defined  above.  Expenditure  on  consumption  during  any  period  must  mean  the  value  of 
+goods sold to consumers during that period, which throws us back to the question of what 
+is  meant  by  a  consumer-purchaser.  Any  reasonable  definition  of  the  line  between 
+consumer-purchasers and investor-purchasers will serve us equally well, provided that it 
+is  consistently  applied.  Such  problem  as  there  is,  e.g.  whether  it  is  right  to  regard  the 
+purchase  of  a  motor-car  as  a  consumer-purchase  and  the  purchase  of  a  house  as  an 
+investor-purchase, has been frequently discussed and I have nothing material to add to the 
+discussion. 
+The  criterion  must  obviously  correspond  to  where  we  draw  the  line  between  the 
+consumer and the entrepreneur. Thus when we have defined A1 as the value of what one 
+entrepreneur  has  purchased  from  another,  we  have  implicitly  settled  the  question.  It 
+follows  that  expenditure  on  consumption  can  be  unambiguously  defined  as  Σ(A − A1), 
+where A is the total sales made during the period and A1 is the total sales made by one 
+entrepreneur to another. In what follows it will be convenient, as a rule, to omit and write 
+A for the aggregate sales of all kinds, A1 for the aggregate sales from one entrepreneur to 
+another and U for the aggregate user costs of the entrepreneurs. 
+Having now defined both income and consumption, the definition of saving, which is the 
+excess  of  income  over  consumption,  naturally  follows.  Since  income  is  equal  to  A − U 
+and consumption is equal to A − A1, it follows that saving is equal to A1 − U. Similarly, 
+we have net saving for the excess of net income over consumption, equal to A1 − U  − V. 
+Our definition of income also leads at once to the definition of current investment. For we 
+must mean by this the current addition to the value of the capital equipment which has 
+resulted from the productive activity of the period. This is, clearly, equal to what we have 
+just defined as saving. For it is that part of the income of the period which has not passed 
+into consumption. We have seen above that as the result of the production of any period 
+entrepreneurs end up with having sold finished output having a value A and with a capital 
+equipment  which  has  suffered  a  deterioration  measured  by  U  (or  an  improvement 
+measured by − U where U is negative) as a result of having produced and parted with A, 
+after allowing for purchases A1 from other entrepreneurs. During the same period finished 
+output  having  a  value  A − A1  will  have  passed  into  consumption.  The  excess  of  A − U 
+over  A − A1,  namely  A1 − U,  is  the  addition  to  capital  equipment  as  a  result  of  the 
+productive  activities  of  the  period  and  is,  therefore,  the  investment  of  the  period. 
+Similarly A1 − U  − V; which is the net addition to capital equipment, after allowing for 
+normal  impairment  in  the  value  of  capital  apart  from  its  being  used  and  apart  from 
+
+windfall changes in the value of the equipment chargeable to capital account, is the net 
+investment of the period. 
+Whilst,  therefore,  the  amount  of  saving  is  an  outcome  of  the  collective  behaviour  of 
+individual  consumers  and  the  amount  of  investment  of  the  collective  behaviour  of 
+individual entrepreneurs, these two amounts are necessarily equal, since each of them is 
+equal  to  the  excess  of  income  over  consumption.  Moreover,  this  conclusion  in  no  way 
+depends  on  any  subtleties  or  peculiarities  in  the  definition  of  income  given  above. 
+Provided  it  is  agreed  that  income  is  equal  to  the  value  of  current  output,  that  current 
+investment is equal to the value of that part of current output which is not consumed, and 
+that  saving  is  equal  to  the  excess  of  income  over  consumption—all  of  which  is 
+conformable both to common sense and to the traditional usage of the great majority of 
+economists—the equality of saving and investment necessarily follows. In short, 
+Income  =  value of output  =  consumption + investment. 
+Saving  =  income − consumption. 
+Therefore saving  =  investment. 
+Thus  any  set  of  definitions  which  satisfy  the  above  conditions  leads  to  the  same 
+conclusion. It is only by denying the validity of one or other of them that the conclusion 
+can be avoided. 
+The equivalence between the quantity of saving and the quantity of investment emerges 
+from the bilateral character of the transactions between the producer on the one hand and, 
+on the other hand, the consumer or the purchaser of capital equipment. 
+Income is created by the value in excess of user cost which the producer obtains for the 
+output he has sold; but the whole of this output must obviously have been sold either to a 
+consumer or to another entrepreneur; and each entrepreneur's current investment is equal 
+to the excess of the equipment which he has purchased from other entrepreneurs over his 
+own user cost. Hence, in the aggregate the excess of income over consumption, which we 
+call saving, cannot differ from the addition to capital equipment which we call investment. 
+And similarly with net saving and net investment. Saving, in fact, is a mere residual. The 
+decisions  to  consume  and  the  decisions  to  invest  between  them  determine  incomes. 
+Assuming  that  the  decisions  to  invest  become  effective,  they  must  in  doing  so  either 
+curtail  consumption  or  expand  income.  Thus  the  act  of  investment  in  itself  cannot  help 
+causing  the  residual  or  margin,  which  we  call  saving,  to  increase  by  a  corresponding 
+amount. 
+It might be, of course, that individuals were so tête montée in their decisions as to how 
+much they themselves would save and invest respectively, that there would be no point of 
+price  equilibrium  at  which  transactions  could  take  place.  In  this  case  our  terms  would 
+cease to be applicable, since output would no longer have a definite market value, prices 
+would find no resting-place between zero and infinity. Experience shows, however, that 
+
+this, in fact, is not so; and that there are habits of psychological response which allow of 
+an  equilibrium  being  reached  at  which  the  readiness  to  buy  is  equal  to  the  readiness  to 
+sell. That there should be such a thing as a market value for output is, at the same time, a 
+necessary  condition  for  money-income  to  possess  a  definite  value  and  a  sufficient 
+condition for the aggregate amount which saving individuals decide to save to be equal to 
+the aggregate amount which investing individuals decide to invest. 
+Clearness  of  mind  on  this  matter  is  best  reached,  perhaps,  by  thinking  in  terms  of 
+decisions to consume (or to refrain from consuming) rather than of decisions to save. A 
+decision to consume or not to consume truly lies within the power of the individual; so 
+does  a  decision  to  invest  or  not  to  invest.  The  amounts  of  aggregate  income  and  of 
+aggregate  saving  are  the  results  of  the  free  choices  of  individuals  whether  or  not  to 
+consume and whether or not to invest; but they are neither of them capable of assuming 
+an independent value resulting from a separate set of decisions taken irrespective of the 
+decisions concerning consumption and investment. In accordance with this principle, the 
+conception  of  the  propensity  to  consume  will,  in  what  follows,  take  the  place  of  the 
+propensity or disposition to save. 
+1. Some further observations on user cost are given in an appendix to this chapter. 
+2. As distinguished from his net income which we shall define below. 
+3. Supply price is, I think, an incompletely defined term, if the problem of defining user cost has been 
+ignored.  The matter  is  further  discussed  in  the  appendix  to  this  chapter,  where I  argue  that  the 
+exclusion  of  user  cost  from  supply  price,  whilst  sometimes  appropriate  in  the  case  of  aggregate 
+supply  price,  is  inappropriate  to  the  problems  of  the  supply  price  of  a  unit  of  output  for  an 
+individual firm. 
+4. For example, let us take Zw = f(N), or alternatively Z = W. f(N) as the aggregate supply function 
+(where  W  is  the  wage-unit and W.Zw  =  Z).  Then,  since  the  proceeds  of the  marginal  product  is 
+equal to the marginal factor-cost at every point on the aggregate supply curve, we have  
+∆N = ∆Aw - ∆Uw = ∆Zw = ∆Φ(N),  
+that is to say f'(N) = 1; provided that factor cost bears a constant ratio to wage-cost, and that the 
+aggregate  supply  function  for  each  firm  (the  number  of  which  is  assumed  to  be  constant)  is 
+independent  of  the  number  of  men  employed  in  other  industries,  so  that  the  terms  of  the  above 
+equation, which hold good for each individual entrepreneur, can be summed for the entrepreneurs 
+as a whole. This means that, if wages are constant and other factor costs are a constant proportion 
+of the wages-bill, the aggregate supply function is linear with a slope given by the reciprocal of the 
+money-wage. 
+5. Economic Journal, June 1935, p. 235. 
+6. “The Maintenance of Capital”, Economica, August 1935, p. 241 et seq. 
+  
+ 
+
+ 
+ 
+APPENDIX ON USER COST 
+I 
+User  cost  has,  I  think,  an  importance  for  the  classical  theory  of  value  which  has  been 
+overlooked. There is more to be said about it than would be relevant or appropriate in this 
+place. But, as a digression, we will examine it somewhat further in this appendix. 
+An entrepreneur's user cost is by definition equal to 
+A1 + (G' −  B') − G, 
+where A1 is the amount of our entrepreneur's purchases from other entrepreneurs, G the 
+actual value of his capital equipment at the end of the period, and G' the value it might 
+have  had  at  the  end  of  the  period  if  he  had  refrained  from  using  it  and  had  spent  the 
+optimum  sum  B'  on  its  maintenance  and  improvement.  Now  G − (G' − B'),  namely  the 
+increment in the value of the entrepreneur's equipment beyond the net value which he has 
+inherited from the previous period, represents the entrepreneur's current investment in his 
+equipment and can be written I. Thus U, the user cost of his sales-turnover A, is equal to 
+A1 − I  where  A1  is  what  he  has  bought  from  other  entrepreneurs  and  I  is  what  he  has 
+currently invested in his own equipment. A little reflection will show that all this is no 
+more than common sense. Some part of his outgoings to other entrepreneurs is balanced 
+by the value of his current investment in his own equipment, and the rest represents the 
+sacrifice which the output he has sold must have cost him over and above the total sum 
+which  he  has  paid  out  to  the  factors  of  production.  If  the  reader  tries  to  express  the 
+substance  of  this  otherwise,  he  will  find  that  its  advantage  lies  in  its  avoidance  of 
+insoluble  (and  unnecessary)  accounting  problems.  There  is,  I  think,  no  other  way  of 
+analysing  the  current  proceeds  of  production  unambiguously.  If  industry  is  completely 
+integrated or if the entrepreneur has bought nothing from outside, so that A1  =  0, the user 
+cost  is  simply  the  equivalent  of  the  current  disinvestment  involved  in  using  the 
+equipment; but we are still left with the advantage that we do not require at any stage of 
+the  analysis  to  allocate  the  factor  cost  between  the  goods  which  are  sold  and  the 
+equipment  which  is  retained.  Thus  we  can  regard  the  employment  given  by  a  firm, 
+whether  integrated  or  individual,  as  depending  on  a  single  consolidated  decision—a 
+procedure  which  corresponds  to  the  actual  interlocking  character  of  the  production  of 
+what is currently sold with total production. 
+The  concept  of  user  cost  enables  us,  moreover,  to  give  a  clearer  definition  than  that 
+usually adopted of the short-period supply price of a unit of a firm's saleable output. For 
+the short-period supply price is the sum of the marginal factor cost and the marginal user 
+cost. 
+
+Now in the modern theory of value it has been a usual practice to equate the short-period 
+supply  price  to  the  marginal  factor  cost  alone.  It  is  obvious,  however,  that  this  is  only 
+legitimate if marginal user cost is zero or if supply price is specially defined so as to be 
+net of marginal user cost, just as I have defined (p. 24 above) 'proceeds' and 'aggregate 
+supply  price'  as  being  net  of  aggregate  user  cost.  But,  whereas  it  may  be  occasionally 
+convenient in dealing with output as a whole to deduct user cost, this procedure deprives 
+our analysis of all reality if it is habitually (and tacitly) applied to the output of a single 
+industry or firm, since it divorces the 'supply price' of an article from any ordinary sense 
+of  its  'price';  and  some  confusion  may  have  resulted  from  the  practice  of  doing  so.  It 
+seems to have been assumed that 'supply price' has an obvious meaning as applied to a 
+unit of the saleable output of an individual firm, and the matter has not been deemed to 
+require discussion. Yet the treatment both of what is purchased from other firms and of 
+the  wastage  of  the  firm's  own  equipment  as  a  consequence  of  producing  the  marginal 
+output involves the whole pack of perplexities which attend the definition of income. For, 
+even  if  we  assume  that  the  marginal  cost  of  purchases  from  other  firms  involved  in 
+selling an additional unit of output has to be deducted from the sale-proceeds per unit in 
+order to give us what we mean by our firm's supply price, we still have to allow for the 
+marginal disinvestment in the firm's own equipment involved in producing the marginal 
+output.  Even  if  all  production  is  carried  on  by  a  completely  integrated  firm,  it  is  still 
+illegitimate  to  suppose  that  the  marginal  user  cost  is  zero,  i.e.  that  the  marginal 
+disinvestment in equipment due to the production of the marginal output can generally be 
+neglected. 
+The concepts of user cost and of supplementary cost also enable us to establish a clearer 
+relationship between long-period supply price and short-period supply price. Long-period 
+cost must obviously include an amount to cover the basic supplementary cost as well as 
+the expected prime cost appropriately averaged over the life of the equipment. That is to 
+say, the long-period cost of the output is equal to the expected sum of the prime cost and 
+the  supplementary  cost;  and,  furthermore,  in  order  to  yield  a  normal  profit,  the  long-
+period  supply  price  must  exceed  the  long-period  cost  thus  calculated  by  an  amount 
+determined by the current rate of interest on loans of comparable term and risk, reckoned 
+as a percentage of the cost of the equipment. Or if we prefer to take a standard 'pure' rate 
+of interest, we must include in the long-period cost a third term which we might call the 
+risk-cost  to  cover  the  unknown  possibilities  of  the  actual  yield  differing  from  the 
+expected yield. Thus the long-period supply price is equal to the sum of the prime cost, 
+the supplementary cost, the risk cost and the interest cost, into which several components 
+it  can  be  analysed.  The  short-period  supply  price,  on  the  other  hand,  is  equal  to  the 
+marginal  prime  cost.  The  entrepreneur  must,  therefore,  expect,  when  he  buys  or 
+constructs  his equipment, to  cover his supplementary cost, his risk cost and his interest 
+cost out of the excess of the marginal value of the prime cost over its average value; so 
+that  in  long-period  equilibrium  the  excess  of  the  marginal  prime  cost  over  the  average 
+prime cost is equal to the sum of the supplementary, risk and interest costs[1]. 
+The  level  of  output,  at  which  marginal  prime  cost  is  exactly  equal  to  the  sum  of  the 
+average prime and supplementary costs, has a special importance, because it is the point 
+at which the entrepreneur's trading account breaks even. It corresponds, that is to say, to 
+
+the point of zero net profit; whilst with a smaller output than this he is trading at a net 
+loss. 
+The extent to which the supplementary cost has to be provided for apart from the prime 
+cost varies very much from one type of equipment to another. Two extreme cases are the 
+following: 
+(i) Some part of the maintenance of the equipment must necessarily take place pari passu 
+with the act of using it (e.g. oiling the machine). The expense of this (apart from outside 
+purchases) is included in the factor cost. If, for physical reasons, the exact amount of the 
+whole  of  the  current  depreciation  has  necessarily  to  be  made  good  in  this  way,  the 
+amount  of  the  user  cost  (apart  from  outside  purchases)  would  be  equal  and  opposite  to 
+that  of  the  supplementary  cost;  and  in  long-period  equilibrium  the  marginal  factor  cost 
+would exceed the average factor cost by an amount equal to the risk and interest cost. 
+(ii) Some part of the deterioration in the value of the equipment only occurs if it is used. 
+The cost of this is charged in user cost, in so far as it is not made good pari passu with 
+the  act  of  using  it.  If  loss  in  the  value  of  the  equipment  could  only  occur  in  this  way, 
+supplementary cost would be zero. 
+It  may  be  worth  pointing  out  that  an  entrepreneur  does  not  use  his  oldest  and  worst 
+equipment  first,  merely  because  its  user  cost  is  low;  since  its  low  user  cost  may  be 
+outweighed by its relative inefficiency, i.e. by its high factor cost. Thus an entrepreneur 
+uses by preference that part of his equipment for which the user cost plus factor cost is 
+least per unit of output[2]. It follows that for any given volume of output of the product in 
+question there is a corresponding user cost[3], but that this total user cost does not bear a 
+uniform  relation  to  the  marginal  user  cost,  i.e.  to  the  increment  of  user  cost  due  to  an 
+increment in the rate of output. 
+II 
+User cost constitutes one of the links between the present and the future. For in deciding 
+his  scale  of  production  an  entrepreneur  has  to  exercise  a  choice  between  using  up  his 
+equipment now and preserving it to be used later on. It is the expected sacrifice of future 
+benefit involved in present use which determines the amount of the user cost, and it is the 
+marginal  amount  of  this  sacrifice  which,  together  with  the  marginal  factor  cost  and  the 
+expectation of the marginal proceeds,  determines  his  scale  of  production.  How,  then,  is 
+the user cost of an act of production calculated by the entrepreneur? 
+We have defined the user cost as the reduction in the value of the equipment due to using 
+it  as  compared  with  not  using  it,  after  allowing  for  the  cost  of  the  maintenance  and 
+improvements which it would be worth while to undertake and for purchases from other 
+entrepreneurs. It must be arrived at, therefore, by calculating the discounted value of the 
+additional  prospective  yield  which  would  be  obtained  at  some  later  date  if  it  were  not 
+used  now.  Now  this  must  be  at  least  equal  to  the  present  value  of  the  opportunity  to 
+
+postpone  replacement  which  will  result  from  laying  up  the  equipment;  and  it  may  be 
+more[4]. 
+If  there  is  no  surplus  or  redundant  stock,  so  that  more  units  of  similar  equipment  are 
+being newly produced every year either as an addition or in replacement, it is evident that 
+marginal  user  cost  will  be  calculable  by  reference  to  the  amount  by  which  the  life  or 
+efficiency  of  the  equipment  will  be  shortened  if  it  is  used,  and  the  current  replacement 
+cost. If, however, there is redundant equipment, then the user cost will also depend on the 
+rate of interest and the current (i.e. re-estimated) supplementary cost over the period of 
+time before the redundancy is expected to be absorbed through wastage, etc. In this way 
+interest  cost  and  current  supplementary  cost  enter  indirectly  into  the calculation of user 
+cost. 
+The calculation is exhibited in its simplest and most intelligible form when the factor cost 
+is zero, e.g. in the case of a redundant stock of a raw material such as copper, on the lines 
+which  I  have  worked  out  in  my  Treatise  on  Money,  vol.  ii.  chap.  29.  Let  us  take  the 
+prospective values of copper at various future dates, a series which will be governed by 
+the rate at which redundancy is being absorbed and gradually approaches the estimated 
+normal cost. The present value or user cost of a ton of surplus copper will then be equal 
+to the greatest of the values obtainable by subtracting from the estimated future value at 
+any given date of a ton of copper the interest cost and the current supplementary cost on a 
+ton of copper between that date and the present. 
+In the same way the user cost of a ship or factory or machine, when these equipments are 
+in redundant supply, is its estimated replacement cost discounted at the percentage rate of 
+its interest  and  current  supplementary  costs to  the  prospective  date  of  absorption  of  the 
+redundancy. 
+We have assumed above that the equipment will be replaced in due course by an identical 
+article. If the equipment in question will not be renewed identically when it is worn out, 
+then its user cost has to be calculated by taking a proportion of the user cost of the new 
+equipment,  which  will  be  erected  to  do  its  work  when  it  is  discarded,  given  by  its 
+comparative efficiency. 
+III 
+The  reader  should  notice  that,  where  the  equipment  is  not  obsolescent  but  merely 
+redundant for the time being, the difference between the actual user cost and its normal 
+value  (i.e.  the  value  when  there  is  no  redundant  equipment)  varies  with  the  interval  of 
+time which is expected to elapse before the redundancy is absorbed. Thus if the type of 
+equipment in question is of all ages and not 'bunched', so that a fair proportion is reaching 
+the  end  of  its  life  annually,  the  marginal  user  cost  will  not  decline  greatly  unless  the 
+redundancy is exceptionally excessive. In the case of a general slump, marginal user cost 
+will  depend  on  how  long  entrepreneurs  expect  the  slump  to  last.  Thus  the  rise  in  the 
+supply  price  when  affairs  begin  to  mend  may  be  partly  due  to  a  sharp  increase  in 
+marginal user cost due to a revision of their expectations. 
+
+It  has  sometimes  been  argued,  contrary  to  the  opinion  of  business  men,  that  organised 
+schemes  for  scrapping  redundant  plant  cannot  have  the  desired  effect  of  raising  prices 
+unless they apply to the whole of the redundant plant. But the concept of user cost shows 
+how the scrapping of (say) half the redundant plant may have the effect of raising prices 
+immediately.  For  by  bringing  the  date  of  the  absorption  of  the  redundancy  nearer,  this 
+policy raises marginal user cost and consequently increases the current supply price. Thus 
+business men would seem to have the notion of user cost implicitly in mind, though they 
+do  not  formulate  it  distinctly.  If  the  supplementary  cost  is  heavy,  it  follows  that  the 
+marginal user cost will be low when there is surplus equipment. Moreover, when there is 
+surplus equipment, the marginal factor and user costs are unlikely to be much in excess of 
+their  average  value.  If  both  these  conditions  are  fulfilled,  the  existence  of  surplus 
+equipment is likely to lead to the entrepreneur's working at a net loss, and perhaps at a 
+heavy net loss. There will not be a sudden transition from this state of affairs to a normal 
+profit, taking place at the moment when the redundancy is absorbed. As the redundancy 
+becomes  less,  the  user  cost  will  gradually  increase;  and  the  excess  of  marginal  over 
+average factor and user cost may also gradually increase. 
+IV 
+In  Marshall's  Principles  of  Economics  (6th  ed.  p.360)  a  part  of  user  cost  is  included  in 
+prime cost under the heading of 'extra wear-and-tear of plant'. But no guidance is given as 
+to  how  this  item  is  to  be  calculated  or  as  to  its  importance.  In  his  Theory  of 
+Unemployment (p.42) Professor Pigou expressly assumes that the marginal disinvestment 
+in equipment due to the marginal output can, in general, be neglected: 'The differences in 
+the  quantity  of  wear-and-tear  suffered  by  equipment  and  in  the  costs  of  non-manual 
+labour employed, that are associated with differences in output, are ignored, as being, in 
+general,  of  secondary  importance'[5].  Indeed,  the  notion  that  the  disinvestment  in 
+equipment  is  zero  at  the  margin  of  production  runs  through  a  good  deal  of  recent 
+economic theory. But the whole problem is brought to an obvious head as soon as it is 
+thought necessary to explain exactly what is meant by the supply price of an individual 
+firm. 
+It is true that the cost of maintenance of idle plant may often, for the reasons given above, 
+reduce  the  magnitude  of  marginal user cost, especially in a slump which is expected to 
+last a long time. Nevertheless a very low user cost at the margin is not a characteristic of 
+the  short  period  as  such,  but  of  particular  situations  and  types  of  equipment  where  the 
+cost of maintaining idle plant happens to be heavy, and of those disequilibria which are 
+characterised by very rapid obsolescence or great redundancy, especially if it is coupled 
+with a large proportion of comparatively new plant. 
+In the case of raw materials the necessity of allowing for user cost is obvious;—if a ton of 
+copper  is  used  up  to-day  it  cannot  be  used  to-morrow,  and  the  value  which  the  copper 
+would  have  for  the  purposes  of  to-morrow  must  clearly  he  reckoned  as  a  part  of  the 
+marginal  cost.  But  the  fact  has  been  overlooked  that  copper  is  only  an  extreme  case  of 
+what occurs whenever capital equipment is used to produce. The assumption that there is 
+a sharp division between raw materials where we must allow for the disinvestment due to 
+
+using  them  and  fixed  capital  where  we  can  safely  neglect  it  does  not  correspond  to  the 
+facts;—especially  in  normal  conditions  where  equipment  is  falling  due  for  replacement 
+every  year  and  the  use  of  equipment  brings  nearer  the  date  at  which  replacement  is 
+necessary. 
+It  is  an  advantage  of  the  concepts  of  user  cost  and  supplementary  cost  that  they  are  as 
+applicable  to  working  and  liquid  capital  as  to  fixed  capital.  The  essential  difference 
+between  raw  materials  and  fixed  capital  lies  not  in  their  liability  to  user  and 
+supplementary  costs,  but  in  the  fact  that  the  return  to  liquid  capital  consists  of  a  single 
+term;  whereas  in  the  case  of  fixed  capital,  which  is  durable  and  used  up  gradually,  the 
+return consists of a series of user costs and profits earned in successive periods. 
+1. This way of putting it depends on the convenient assumption that the marginal prime cost curve is 
+continuous throughout its length for changes in output. In fact, this assumption is often unrealistic, 
+and  there  may  be  one  or  more  points  of  discontinuity,  especially  when  we  reach  an  output 
+corresponding  to  the  technical  full  capacity  of  the  equipment.  In  this  case  the  marginal  analysis 
+partially  breaks  down;  and  the  price  may  exceed  the  marginal  prime  cost,  where  the  latter  is 
+reckoned in respect of a small decrease of output. (Similarly there may often be a discontinuity in 
+the  downward  direction.  i.e.  for  a  reduction  in  output  below  a  certain  point).  This  is  important 
+when  we  are  considering  the  short-period  supply  price  in  long-period  equilibrium,  since  in  that 
+case any discontinuities, which may exist corresponding to a point of technical full capacity, must 
+be supposed to be in operation. Thus the short-period supply price in long-period equilibrium may 
+have to exceed the marginal prime cost (reckoned in terms of a small decrease of output). 
+2. Since user cost partly depends on expectations as to the future level of wages, a reduction in the 
+wage-unit  which  is  expected  to  be  short-lived  will  cause  factor  cost  and  user  cost  to  move  in 
+different proportions and so affect what equipment is used, and, conceivably, the level of effective 
+demand, since factor cost may enter into the determination of effective demand in a different way 
+from user cost. 
+3. The user cost of the equipment which is first brought into use is not only independent of the total 
+volume  of  output  (see  below);  i.e.  the  user  cost  may  be  affected  all  along  the  line  when  the  total 
+volume of output is changed. 
+4. It will be more when it is expected that a more than normal yield can be obtained at some later 
+date,  which,  however,  is  not  expected  to  last  long  enough  to  justify  (or  give  time  for)  the 
+production of new equipment. To-day’s user cost is equal to the maximum of the discounted values 
+of the potential expected yields of all the tomorrows. 
+5. Mr. Hawtrey (Economica, May 1934, p. 145) has called attention to Prof. Pigou’s identification of 
+supply price with marginal labour cost, and has contended that Prof. Pigou’s argument is thereby 
+seriously vitiated. 
+  
+ 
+ 
+ 
+
+ 
+Chapter 7 
+THE MEANING OF SAVING AND INVESTMENT FURTHER 
+CONSIDERED 
+I 
+In  the  previous  chapter  saving  and  investment  have  been  so  defined  that  they  are 
+necessarily  equal  in  amount,  being,  for  the  community  as  a  whole,  merely  different 
+aspects of the same thing. Several contemporary writers (including myself in my Treatise 
+on Money) have, however, given special definitions of these terms on which they are not 
+necessarily  equal.  Others  have  written  on  the  assumption  that  they  may  be  unequal 
+without prefacing their discussion with any definitions at all. It will be useful, therefore, 
+with a view to relating the foregoing to other discussions of these terms, to classify some 
+of the various uses of them which appear to be current. 
+So far as I know, everyone agrees in meaning by saving the excess of income over what 
+is spent on consumption. It would certainly be very inconvenient and misleading not to 
+mean  this.  Nor  is  there  any  important  difference  of  opinion  as  to  what  is  meant  by 
+expenditure  on  consumption.  Thus  the  differences  of  usage  arise  either  out  of  the 
+definition of investment or out of that of income. 
+II 
+Let us take investment first. In popular usage it is common to mean by this the purchase 
+of an asset, old or new, by an individual or a corporation. Occasionally, the term might be 
+restricted to the purchase of an asset on the Stock Exchange. But we speak just as readily 
+of  investing,  for  example,  in  a  house,  or  in  a  machine,  or  in  a  stock  of  finished  or 
+unfinished  goods;  and,  broadly  speaking,  new  investment,  as  distinguished  from 
+reinvestment,  means  the  purchase  of  a  capital  asset  of  any  kind  out  of  income.  If  we 
+reckon  the  sale  of  an  investment  as  being  negative  investment,  i.e.  disinvestment,  my 
+own definition is in accordance with popular usage; since exchanges of old investments 
+necessarily cancel out. We have, indeed, to adjust for the creation and discharge of debts 
+(including changes in the quantity of credit or money); but since for the community as a 
+whole the increase or decrease of the aggregate creditor position is always exactly equal 
+to the increase or decrease of the aggregate debtor position, this complication also cancels 
+out when we are dealing with aggregate investment. Thus, assuming that income in the 
+popular sense corresponds to my net income, aggregate investment in the popular sense 
+coincides  with  my  definition  of  net  investment,  namely  the  net  addition  to  all  kinds  of 
+capital  equipment,  after  allowing  for  those  changes  in  the  value  of  the  old  capital 
+equipment which are taken into account in reckoning net income. 
+Investment, thus defined, includes, therefore, the increment of capital equipment, whether 
+it  consists  of  fixed  capital,  working  capital  or  liquid  capital;  and  the  significant 
+
+differences  of  definition  (apart  from  the  distinction  between  investment  and  net 
+investment) are due to the exclusion from investment of one or more of these categories. 
+Mr Hawtrey, for example, who attaches great importance to changes in liquid capital, i.e. 
+to undesigned increments (or decrements) in the stock of unsold goods, has suggested a 
+possible definition of investment from which such changes are excluded. In this case an 
+excess of saving over investment would be the same thing as an undesigned increment in 
+the  stock  of  unsold  goods,  i.e.  as  an  increase  of  liquid  capital.  Mr  Hawtrey  has  not 
+convinced me that this is the factor to stress; for it lays all the emphasis on the correction 
+of changes which were in the first instance unforeseen, as compared with those which are, 
+rightly or wrongly, anticipated. Mr Hawtrey regards the daily decisions of entrepreneurs 
+concerning  their  scale  of  output  as  being  varied  from  the  scale  of  the  previous  day  by 
+reference  to  the  changes  in  their  stock  of  unsold  goods.  Certainly,  in  the  case  of 
+consumption goods, this plays an important part in their decisions. But I see no object in 
+excluding  the  play  of  other  factors  on  their  decisions;  and  I  prefer,  therefore,  to 
+emphasise the total change of effective demand and not merely that part of the change in 
+effective demand which reflects the increase or decrease of unsold stocks in the previous 
+period. Moreover, in the case of fixed capital, the increase or decrease of unused capacity 
+corresponds  to  the  increase  or  decrease  in  unsold  stocks  in  its  effect  on  decisions  to 
+produce;  and  I  do  not  see  how  Mr  Hawtrey's  method  can  handle  this  at  least  equally 
+important factor. 
+It seems probable that capital formation and capital consumption, as used by the Austrian 
+school  of  economists,  are  not  identical  either  with  investment  and  disinvestment  as 
+defined  above  or  with  net  investment  and  disinvestment.  In  particular,  capital 
+consumption is said to occur in circumstances where there is quite clearly no net decrease 
+in  capital  equipment  as  defined  above.  I  have,  however,  been  unable  to  discover  a 
+reference  to  any  passage  where  the  meaning  of  these  terms  is  clearly  explained.  The 
+statement, for example, that capital formation occurs when there is a lengthening of the 
+period of production does not much advance matters. 
+III 
+We  come  next  to  the  divergences  between  saving  and  investment  which  are  due  to  a 
+special  definition  of  income  and  hence  of  the  excess  of  income  over  consumption.  My 
+own use of terms in my Treatise on Money is an example of this. For, as I have explained 
+on  p.  60  above,  the  definition  of  income,  which  I  there  employed,  differed  from  my 
+present definition by reckoning as the income of entrepreneurs not their actually realised 
+profits  but  (in  some  sense)  their  'normal  profit'.  Thus  by  an  excess  of  saving  over 
+investment  I  meant  that  the  scale  of  output  was  such  that  entrepreneurs  were  earning  a 
+less  than  normal  profit  from  their  ownership  of  the  capital  equipment;  and  by  an 
+increased excess of saving over investment I meant that a decline was taking place in the 
+actual profits, so that they would be under a motive to contract output. 
+As I now think, the volume of employment (and consequently of output and real income) 
+is  fixed  by  the  entrepreneur  under  the  motive  of  seeking  to  maximise  his  present  and 
+
+prospective  profits  (the  allowance  for  user  cost  being  determined  by  his  view  as  to  the 
+use of equipment which will maximise his return from it over its whole life); whilst the 
+volume of employment which will maximise his profit depends on the aggregate demand 
+function given by his expectations of the sum of the proceeds resulting from consumption 
+and investment respectively on various hypotheses. In my Treatise on Money the concept 
+of  changes  in  the  excess  of  investment  over  saving,  as  there  defined,  was  a  way  of 
+handling  changes  in  profit,  though  I  did  not  in  that  book  distinguish  clearly  between 
+expected  and  realised  results[1].  I  there  argued  that  change  in  the  excess  of  investment 
+over saving was the motive force governing changes in the volume of output. Thus the 
+new argument, though (as I now think) much more accurate and instructive, is essentially 
+a development of the old. Expressed in the language of my Treatise on Money, it would 
+run: the expectation of an increased excess of investment over saving, given the former 
+volume of employment and output, will induce entrepreneurs to increase the volume of 
+employment and output. The significance of both my present and my former arguments 
+lies  in  their  attempt  to  show  that  the  volume  of  employment  is  determined  by  the 
+estimates  of  effective  demand  made  by  the  entrepreneurs,  an  expected  increase  of 
+investment relatively to saving as defined in my Treatise on Money being a criterion of 
+an increase in effective demand. But the exposition in my Treatise on Money is, of course, 
+very confusing and incomplete in the light of the further developments here set forth. 
+Mr  D.  H.  Robertson  has  defined  to-day's  income  as  being  equal  to  yesterday's 
+consumption plus investment, so that to-day's saving, in his sense, is equal to yesterday's 
+investment  plus  the  excess  of  yesterday's  consumption  over  to-day's  consumption.  On 
+this definition saving can exceed investment, namely, by the excess of yesterday's income 
+(in my sense) over to-day's income. Thus when Mr Robertson says that there is an excess 
+of saving over investment, he means literally the same thing as I mean when I say that 
+income is falling, and the excess of saving in his sense is exactly equal to the decline of 
+income in my sense. If it were true that current expectations were always determined by 
+yesterday's  realised  results,  to-day's  effective  demand  would  be  equal  to  yesterday's 
+income.  Thus  Mr  Robertson's  method  might  be  regarded  as  an  alternative.  attempt  to 
+mine (being, perhaps, a first approximation to it) to make the same distinction, so vital for 
+causal analysis, that I have tried to make by the contrast between effective demand and 
+income[2]. 
+IV 
+We come next to the much vaguer ideas associated with the phrase 'forced saving'. Is any 
+clear significance discoverable in these? In my Treatise on Money (vol.1, p. 171, footnote 
+[JMK, vol. V, p.154] I gave some references to earlier uses of this phrase and suggested 
+that they bore some affinity to the difference between investment and 'saving' in the sense 
+in which I there used the latter term. I am no longer confident that there was in fact so 
+much  affinity  as  I  then  supposed.  In  any  case,  I  feel  sure  that  'forced  saving'  and 
+analogous  phrases  employed  more  recently  (e.g.  by  Professor  Hayek  or  Professor 
+Robbins)  have  no  definite  relation  to  the  difference  between  investment  and  'saving'  in 
+the sense intended in my Treatise on Money. For whilst these authors have not explained 
+exactly  what  they  mean  by  this  term,  it  is  clear  that  'forced  saving',  in  their  sense,  is  a 
+
