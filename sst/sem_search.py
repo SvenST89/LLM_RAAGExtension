@@ -126,8 +126,8 @@ class SemanticSearch:
         # OUTPUS
         #----------------------------------------------------#
         # Output of top hits from Semantic Encoder
-        logging.info("Top Hits from the SEMANTIC SEARCH MODEL.")
-        logging.info("---------------------------------------------------------------------------\n")
+        #logging.info("Top Hits from the SEMANTIC SEARCH MODEL.")
+        #logging.info("---------------------------------------------------------------------------\n")
         hits_sem = sorted(hits, key=lambda x: x['score'], reverse=True)
         result_list_sem = []
         for hit in hits_sem[0: int(self.top_k_sent)]:

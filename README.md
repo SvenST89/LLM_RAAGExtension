@@ -2,7 +2,9 @@
 
 ## <font color="#9D9D9E">General Description</font>
 
-This repository builds a customized GPT-Model with the [MistralAI 7B Instruct Model](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF) as provided on **Huggingface**.
+This repository builds a customized GPT-Model with the [MistralAI 7B Instruct Model](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF) as provided on **Huggingface**. 
+
+Unfortunately, currently it can only understand English language - the Falcon model (see below) could be used in a multilingual setting. There is a [German version of the Mistral 7b-Model](https://huggingface.co/flozi00/Mistral-7B-german-assistant-v1), but I have not tried it, yet.
 
 The main notebook `customGPT_langchain.ipynb` starts by first setting up a corpus, does some **Semantic Search with cosine similarity** in order to find the best context for the LLM. Finally, a given query and the found context are given to the **Mistral AI LLM** in order to generate an answer.
 
